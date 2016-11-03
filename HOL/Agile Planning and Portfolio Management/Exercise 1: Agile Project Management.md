@@ -8,20 +8,14 @@
     project management tools that small- to medium-sized development
     teams can utilize for product development.
 
-
-
   >**Note:** The team project used in this lab uses a Scrum process
     template, but the core features demonstrated apply to all
     process templates.
-
-  
 
 #### <span id="_Toc429723508" class="anchor"><span id="_Toc451341229" class="anchor"></span></span>Task 1: Team Foundation Server Web Portal
 
 1.  Log in as **Julia Ilyiana** (VSALM\\Julia). All user passwords are
     **P2ssw0rd**.
-
-<!-- -->
 
    > **Note:** In order to fully demonstrate the ALM features in this
     lab, we will first set the virtual machine to a specific date that
@@ -29,8 +23,6 @@
     to be walked through using the original virtual machine state
     (without any modifications made to source or work items), otherwise
     you will see errors.
-
-<!-- -->
 
 2.  **Right-click** the **ConfigureALMDemo.bat** file on the Desktop and
     then select “**Run as administrator**”. This will set the date and
@@ -40,61 +32,25 @@
 2.  Launch **Internet Explorer** from the taskbar and click **TFS FF
     Portal** from the favorites bar at the top.
 
-<!-- -->
-
 1.  <img src="./media/image2.png" width="624" height="57" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
 1.  Launching the web portal
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  **Note:** There is also a **Web Portal** link in the Team Explorer
     window within Visual Studio.
 
     <img src="./media/image3.png" width="345" height="117" />
 
-<!-- -->
-
-1.  
-
-<!-- -->
-
 1.  Select the team drop-down box in the top-right corner of the portal
     and select the **Browse All** option.
 
-<!-- -->
-
 1.  <img src="./media/image4.png" width="575" height="323" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
 1.  Browsing teams
-
-<!-- -->
 
 1.  **Note:** There is also an option to create a **New team project**
     directly from the web site. In addition, users with the appropriate
     permissions can delete projects as well.
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  This view shows that the Fabrikam Fiber collection has one project
     in it named **FabrikamFiber**. This project contains a few different
@@ -102,45 +58,19 @@
     default team for the project. We will take a closer look at teams in
     a later exercise.
 
-<!-- -->
-
 1.  **Note:** This lab refers to this default team as both the
     leadership team and the management team. They both refer to the
     same team.
 
-<!-- -->
-
 1.  <img src="./media/image5.png" width="526" height="403" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
 
 1.  Browsing teams
 
-<!-- -->
-
-1.  
-
-<!-- -->
-
 1.  Select the **Fabrikam Fiber Web Team** and then click **Navigate**.
-
-<!-- -->
 
 1.  <img src="./media/image6.png" width="483" height="372" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
 1.  Navigating to a different team
-
-<!-- -->
 
 1.  The **Home** view for the Fabrikam Fiber Web team provides a
     high-level overview of the current iteration (Sprint 3) including
@@ -150,21 +80,9 @@
     there are links to quickly create new work items and bugs, load the
     backlog, task board, initiate requests for feedback and so on.
 
-<!-- -->
-
 1.  <img src="./media/image7.png" width="617" height="282" />
 
-    Figure
-
-<!-- -->
-
 1.  Fabrikam Fiber team home view
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  **Note:** Team favorites can be added or removed from within the
     web portal. For example, navigate to the Build tab to assign build
@@ -175,14 +93,10 @@
     capacity, and even different work items. The determining factor of
     where a work item will show up is governed by the **Area** field.
 
-<!-- -->
-
 1.  As you can see under the **Team Members** section, there are several
     members listed in this team. Teams are a concept that were
     originally introduced in Team Foundation Server 2012 to make it
     easier to manage, assign, and track work.
-
-2.  
 
 #### <span id="_Toc429723509" class="anchor"><span id="_Toc451341230" class="anchor"></span></span>Task 2: Working with the Backlog
 
@@ -193,54 +107,24 @@
 
 1.  <img src="./media/image8.png" width="334" height="116" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
 1.  Navigating to the backlog
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  The product backlog helps define the work that needs to be done.
     Once you have a backlog, you can use it to help manage when that
     work gets done, as well as associate items on the backlog with
     check-ins, acceptance tests, or other criteria.
 
-<!-- -->
-
 1.  <img src="./media/image9.png" width="624" height="222" />
-
-<!-- -->
 
 1.  Figure
 
-<!-- -->
-
 1.  Product backlog view
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  **Note:** The Current iteration shown in the tree on the left side
     of this screen is Iteration 3. Team Foundation Server uses the
     current date and time to determine the current iteration. The
     virtual machine you are using has been set to use a date of July 9,
     2013 for purposes of this lab.
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  Imagine that the VP of Fabrikam Fiber has requested that a new user
     story be implemented for the customer-facing service portal. This
@@ -254,53 +138,22 @@
     **Product Backlog Item** with the title “***Customer should see
     weather-related outages on portal.”***
 
-<!-- -->
-
-1.  <img src="./media/image10.png" width="624" height="184" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
+ <img src="./media/image10.png" width="624" height="184" />
 
 1.  Adding a new user story to the product backlog
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  **Note:** New work items are generally inserted above the
     selected location. The exception is that if you select the last work
     item, the insertion will be after the selected location.
 
-<!-- -->
-
-1.  
-
-<!-- -->
-
 1.  Click **Add** to add the new user story to the backlog.
 
-<!-- -->
+
 
 1.  <img src="./media/image11.png" width="624" height="141" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
 1.  Adding a new user story to the product backlog
 
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  Work items on the product backlog are ordered based on priority with
     high priority items at the top. Our new work item has a high
@@ -311,41 +164,15 @@
 
 1.  <img src="./media/image12.png" width="624" height="227" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
 1.  Increasing the priority of the new user story
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  Let’s edit the new user story to assign it to the appropriate
     product owner and record an initial estimate of expected effort.
     **Double-click** the new user story.
 
-<!-- -->
-
 1.  <img src="./media/image13.png" width="624" height="97" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
 1.  Editing the new user story
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  Assign the new item to **Brian Keller** (the product owner for the
     Fabrikam Fiber Team), set the state to **Approved**, and set an
@@ -353,19 +180,7 @@
 
     <img src="./media/image14.png" width="624" height="398" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
 1.  Assigning the new user story and estimating effort
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  **Note:** Each team may choose to define the **Effort** value as
     they see fit, using a unit of story points, hours, days, or number
@@ -378,32 +193,12 @@
     planning poker. You can read more about it at
     <http://en.wikipedia.org/wiki/Planning_poker>.
 
-<!-- -->
-
-1.  
-
-<!-- -->
-
 1.  Assign the new user story to the current iteration, ***Iteration
     3***, by dragging and dropping it as shown below.
 
-<!-- -->
-
 1.  <img src="./media/image15.png" width="624" height="216" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
 1.  Assigning the new user story to the current iteration
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  **Note:** If you are a Scrum purist, you are probably cringing at
     the fact that we just added new work to a mid-flight iteration.
@@ -412,30 +207,14 @@
     the workflow and still show you all of the aspects of the project
     management interface. Well, that and the VP told you to.
 
-<!-- -->
-
 1.  Look at the **Iteration Path** for the new user story to make sure
     that it is assigned to *Iteration 3* as expected. This user story
     will remain on the product backlog until the work has
     been completed.
 
-<!-- -->
-
 1.  <img src="./media/image16.png" width="624" height="94" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
 1.  Assigning the new user story to the current iteration
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  If you made a mistake when adding a work item, or if the work item
     simply shouldn’t be part of the backlog for any reason, you can drag
@@ -468,23 +247,9 @@
     between work in progress and work completed. Click the mini chart in
     the upper-right corner to load the larger view.
 
-<!-- -->
-
-1.  <img src="./media/image20.png" width="453" height="73" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
+  <img src="./media/image20.png" width="453" height="73" />
 
 1.  Location of velocity chart
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  During *Iteration 1*, the team completed 35 story points worth
     of effort. *Iteration 2* was more productive with 49 story
@@ -493,23 +258,10 @@
     Committed state. Remember that these story points are a relative
     measure of effort that was agreed upon by the team.
 
-<!-- -->
 
-1.  <img src="./media/image21.png" width="493" height="309" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
+  <img src="./media/image21.png" width="493" height="309" />
 
 1.  Velocity chart showing progress towards completing user stories
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  Press the **Escape** key to close the velocity chart.
 
@@ -517,94 +269,41 @@
     iterations by their assigned dates. Click **Iteration 3** so that we
     can break down work and assign it to the appropriate team members.
 
-<!-- -->
 
-1.  <img src="./media/image22.png" width="180" height="238" />
 
-<!-- -->
+  <img src="./media/image22.png" width="180" height="238" />
 
-1.  Figure
-
-<!-- -->
 
 1.  Navigating to the current backlog
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  Before we break down the new user story, let’s take a quick tour of
     this iteration backlog view. To start with, it shows all user
     stories and associated tasks that are assigned to the selected
     iteration, regardless of state.
 
-<!-- -->
-
-1.  <img src="./media/image23.png" width="589" height="277" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
+  <img src="./media/image23.png" width="589" height="277" />
 
 1.  Current iteration backlog view
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  At a glance, you can see that the current iteration runs from July 1
     to 12, with four work days remaining. Just to the right of the
     current iteration date range, there is a small graph showing the
     burn down of the remaining work.
 
-<!-- -->
-
-1.  <img src="./media/image24.png" width="303" height="46" />
-
-    Figure
-
-<!-- -->
+  <img src="./media/image24.png" width="303" height="46" />
 
 1.  Burn down graph
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  Click the burn down graph to view it. The graph shows remaining work
     over the course of the iteration. It also provides insight for the
     **Available Capacity** that can be applied to the work (total work
     hours remaining across resources).
 
-<!-- -->
-
-1.  <img src="./media/image25.png" width="624" height="310" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
+  <img src="./media/image25.png" width="624" height="310" />
 
 1.  Enlarged burn down graph
 
-<!-- -->
-
-1.  
-
-<!-- -->
-
 1.  Press the **Escape** key to close the burn down graph.
-
-2.  
 
 #### <span id="_Toc429723510" class="anchor"><span id="_Toc451341231" class="anchor"></span></span>Task 3: Team Capacity Planning
 
@@ -614,43 +313,16 @@
     for the team. It looks like we are okay now, but we still haven’t
     broken the new user story into tasks for the team yet.
 
-<!-- -->
-
 1.  <img src="./media/image26.png" width="194" height="80" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
 
 1.  Overall remaining work with respect to team capacity
 
-<!-- -->
-
-1.  
-
-<!-- -->
-
 1.  Select the **Capacity** tab to review the team capacity details.
 
-<!-- -->
 
-1.  <img src="./media/image27.png" width="312" height="77" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
+  <img src="./media/image27.png" width="312" height="77" />
 
 1.  Location of Capacity link
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  The capacity view allows us to specify the number of hours per day
     that each team member will be working on this project, days off per
@@ -663,43 +335,15 @@
     meet the demands for this iteration. For now, leave the capacity
     settings unmodified.
 
-<!-- -->
-
 1.  <img src="./media/image28.png" width="551" height="296" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
 
 1.  Team capacity settings
 
-<!-- -->
-
-1.  
-
-<!-- -->
-
 1.  Return to the **Backlog** view for the current iteration.
-
-<!-- -->
 
 1.  <img src="./media/image29.png" width="309" height="71" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
 1.  Location of Contents tab
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  Let’s say that the decision is made to proceed with committing to
     the new work item. Return to the **Iteration 3** backlog view. Click
@@ -708,115 +352,60 @@
     story and will be used to help describe the implementation details
     required to complete this user story.
 
-<!-- -->
+
 
 1.  <img src="./media/image30.png" width="535" height="230" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
 
 1.  Location of the button used to create new tasks
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  For the new task, enter “**Consume OData feed for weather alerts**”
     for the Title, assign it to **Brian Keller**, and set the Remaining
     Work to **8** hours. Click **Save and Close**.
 
-<!-- -->
 
-1.  <img src="./media/image31.png" width="586" height="426" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
+  <img src="./media/image31.png" width="586" height="426" />
 
 1.  Creating a new task
 
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  Note that the new task was added as a child of the user story and
     that the overall team work bar has turned red indicating that we
     have too much work assigned based on capacity.
 
-<!-- -->
 
-1.  <img src="./media/image32.png" width="578" height="176" />
 
-<!-- -->
+  <img src="./media/image32.png" width="578" height="176" />
 
-1.  Figure
-
-<!-- -->
 
 1.  Insert Caption
 
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  It looks like the bug has not been worked on yet, so this may be a
     good candidate to reschedule for a future iteration so that the team
     can get back on track given their additional workload. Drag and drop
     the bug onto **Iteration 4** on the left-hand side of the window.
 
-<!-- -->
 
 1.  <img src="./media/image33.png" width="576" height="281" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
 
 1.  Using drag and drop to re-assign work to different iterations
 
-<!-- -->
 
-1.  
-
-<!-- -->
 
 1.  Take another look at the overall **Work** bar once again to make
     sure it is now green. This means that we are within the current
     team capacity. Just don’t tell the VP, or he might find another
     high-priority request for us to work on!
 
-<!-- -->
+
 
 1.  <img src="./media/image34.png" width="194" height="86" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
 
 1.  Remaining work for current iteration is within team capacity
-
-<!-- -->
-
-1.  
-
-<!-- -->
-
-1.  
+ 
 
 #### <span id="_Toc429723511" class="anchor"><span id="_Toc451341232" class="anchor"></span></span>Task 4: Working with the Task Board
 
@@ -825,46 +414,22 @@
     in the next stand-up team meeting to report and record progress.
     Select the **Board** tab from Iteration 3.
 
-<!-- -->
+
 
 1.  <img src="./media/image35.png" width="336" height="73" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
 
 1.  Task board link
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  By default, the task board shows all tasks for the current iteration
     grouped by product backlog item and by the current state. Drag and
     drop the “**Consume OData feed for weather alerts**” task to the
     **In Progress** column.
 
-<!-- -->
 
 1.  <img src="./media/image36.png" width="624" height="375" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
 1.  Drag and drop tasks on the task board to move them between states
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  **Note:** The task board is touch enabled as well. This will not
     work within this virtual machine, but you might want to put in your
@@ -876,96 +441,43 @@
     styling, use of avatars, and even responsive layout based on
     browser size.
 
-<!-- -->
 
 1.  **Single-click** the ‘**8**’ value shown on the “**Consume OData
     feed for weather alerts**” task and change the Remaining Work to
     **5** to simulate Brian working on the task during the day.
 
-<!-- -->
 
 1.  <img src="./media/image37.png" width="257" height="284" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
 
 1.  Updating remaining work for a task
 
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  The new high-priority task is now in progress with an estimated 5
     hours of work left to go.
 
-<!-- -->
 
 1.  <img src="./media/image38.png" width="624" height="203" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
 1.  Task board
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  Drag and drop the task titled “**Create database for branch office
     location lookup**” to the **Done** column to record that work
     as completed. Note that the remaining work is automatically reduced
     to **0**.
 
-<!-- -->
-
 1.  <img src="./media/image39.png" width="624" height="299" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
 1.  Completing a task with the task board
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  Notice that the burn down chart in the top-right corner is
     automatically updated after you made changes on the task board.
     Click the burn down chart and note that there is about 15 hours of
     effort left in order to complete the work for the iteration.
 
-<!-- -->
-
 1.  <img src="./media/image40.png" width="624" height="368" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
 1.  Burn down chart
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  Close the burn down chart.
 
@@ -975,80 +487,36 @@
     remaining work giving you a good idea of how much work the team is
     actively working on right now.
 
-<!-- -->
-
 1.  <img src="./media/image41.png" width="624" height="307" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
 
 1.  Task board showing rollup of hours
 
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  The task board also groups by team members. Select the **People**
     grouping option in the top-right of the task board view.
 
-<!-- -->
 
 1.  <img src="./media/image42.png" width="297" height="154" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
 
 1.  Group tasks by people
 
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  This view makes it easy to see what team members are currently
     working on and how much effort remains for each for the remainder of
     the current iteration.
 
-<!-- -->
-
 1.  <img src="./media/image43.png" width="624" height="357" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
 
 1.  Grouping tasks by people
 
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  Click **Backlog Items** to return to the backlog portfolio for
     the team.
 
-<!-- -->
 
 1.  <img src="./media/image44.png" width="624" height="280" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
 
 1.  Backlog view
-
-<!-- -->
