@@ -179,7 +179,7 @@
     value with respect to other work items. Work will be broken down
     into hours later.
 
-    >**Note:** A popular planning approach that helps to eliminate group
+   >**Note:** A popular planning approach that helps to eliminate group
     think and considers input from all team members is known as
     planning poker. You can read more about it at
     <http://en.wikipedia.org/wiki/Planning_poker>.
@@ -249,7 +249,6 @@
     Committed state. Remember that these story points are a relative
     measure of effort that was agreed upon by the team.
 
-
   <img src="./media/image21.png" width="493" height="309" />
 
   <b>Figure 16:</b> Velocity chart showing progress towards completing user stories
@@ -303,14 +302,13 @@
 
   <img src="./media/image26.png" width="194" height="80" />
 
-1.  Overall remaining work with respect to team capacity
+<b>Figure 21:</b> Overall remaining work with respect to team capacity
 
 1.  Select the **Capacity** tab to review the team capacity details.
 
-
   <img src="./media/image27.png" width="312" height="77" />
 
-1.  Location of Capacity link
+<b>Figure 22:</b>  Location of Capacity link
 
 1.  The capacity view allows us to specify the number of hours per day
     that each team member will be working on this project, days off per
@@ -325,13 +323,13 @@
 
   <img src="./media/image28.png" width="551" height="296" />
 
-1.  Team capacity settings
+<b>Figure 23:</b>  Team capacity settings
 
 1.  Return to the **Backlog** view for the current iteration.
 
   <img src="./media/image29.png" width="309" height="71" />
 
-1.  Location of Contents tab
+<b>Figure 24:</b>  Location of Contents tab
 
 1.  Let’s say that the decision is made to proceed with committing to
     the new work item. Return to the **Iteration 3** backlog view. Click
@@ -342,8 +340,7 @@
 
   <img src="./media/image30.png" width="535" height="230" />
 
-
-1.  Location of the button used to create new tasks
+<b>Figure 25:</b>  Location of the button used to create new tasks
 
 1.  For the new task, enter “**Consume OData feed for weather alerts**”
     for the Title, assign it to **Brian Keller**, and set the Remaining
@@ -351,7 +348,7 @@
 
   <img src="./media/image31.png" width="586" height="426" />
 
-1.  Creating a new task
+<b>Figure 26:</b>  Creating a new task
 
   >> *Note* that the new task was added as a child of the user story and
     that the overall team work bar has turned red indicating that we
@@ -359,7 +356,7 @@
 
   <img src="./media/image32.png" width="578" height="176" />
 
-1.  Insert Caption
+<b>Figure 27:</b>  Insert Caption
 
 1.  It looks like the bug has not been worked on yet, so this may be a
     good candidate to reschedule for a future iteration so that the team
@@ -368,7 +365,7 @@
 
   <img src="./media/image33.png" width="576" height="281" />
 
-1.  Using drag and drop to re-assign work to different iterations
+<b>Figure 28:</b>  Using drag and drop to re-assign work to different iterations
 
 1.  Take another look at the overall **Work** bar once again to make
     sure it is now green. This means that we are within the current
@@ -377,7 +374,7 @@
 
   <img src="./media/image34.png" width="194" height="86" />
 
-1.  Remaining work for current iteration is within team capacity
+<b>Figure 29:</b>  Remaining work for current iteration is within team capacity
  
 ### Task 4: Working with the Task Board
 
@@ -388,7 +385,7 @@
 
   <img src="./media/image35.png" width="336" height="73" />
 
-1.  Task board link
+<b>Figure 30:</b>  Task board link
 
 1.  By default, the task board shows all tasks for the current iteration
     grouped by product backlog item and by the current state. Drag and
@@ -397,7 +394,7 @@
 
   <img src="./media/image36.png" width="624" height="375" />
 
-1.  Drag and drop tasks on the task board to move them between states
+<b>Figure 31:</b>  Drag and drop tasks on the task board to move them between states
 
     >>**Note:** The task board is touch enabled as well. This will not
     work within this virtual machine, but you might want to put in your
@@ -415,14 +412,14 @@
 
   <img src="./media/image37.png" width="257" height="284" />
 
-1.  Updating remaining work for a task
+<b>Figure 32:</b>  Updating remaining work for a task
 
 1.  The new high-priority task is now in progress with an estimated 5
     hours of work left to go.
 
   <img src="./media/image38.png" width="624" height="203" />
 
-1.  Task board
+<b>Figure 33:</b>  Task board
 
 1.  Drag and drop the task titled “**Create database for branch office
     location lookup**” to the **Done** column to record that work
@@ -431,7 +428,7 @@
 
   <img src="./media/image39.png" width="624" height="299" />
 
-1.  Completing a task with the task board
+<b>Figure 34:</b>  Completing a task with the task board
 
 1.  Notice that the burn down chart in the top-right corner is
     automatically updated after you made changes on the task board.
@@ -440,7 +437,7 @@
 
   <img src="./media/image40.png" width="624" height="368" />
 
-1.  Burn down chart
+<b>Figure 35:</b>  Burn down chart
 
 1.  Close the burn down chart.
 
@@ -452,14 +449,14 @@
 
   <img src="./media/image41.png" width="624" height="307" />
 
-1.  Task board showing rollup of hours
+<b>Figure 36:</b>  Task board showing rollup of hours
 
 1.  The task board also groups by team members. Select the **People**
     grouping option in the top-right of the task board view.
 
   <img src="./media/image42.png" width="297" height="154" />
 
-1.  Group tasks by people
+<b>Figure 37:</b>  Group tasks by people
 
 1.  This view makes it easy to see what team members are currently
     working on and how much effort remains for each for the remainder of
@@ -467,11 +464,11 @@
 
   <img src="./media/image43.png" width="624" height="357" />
 
-1.  Grouping tasks by people
+<b>Figure 38:</b> Grouping tasks by people
 
 1.  Click **Backlog Items** to return to the backlog portfolio for
     the team.
 
   <img src="./media/image44.png" width="624" height="280" />
 
-  Backlog view
+  <b>Figure 39:</b>Backlog view
