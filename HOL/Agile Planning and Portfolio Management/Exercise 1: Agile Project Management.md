@@ -12,7 +12,7 @@
     template, but the core features demonstrated apply to all
     process templates.
 
-#### <span id="_Toc429723508" class="anchor"><span id="_Toc451341229" class="anchor"></span></span>Task 1: Team Foundation Server Web Portal
+###Task 1: Team Foundation Server Web Portal
 
 1.  Log in as **Julia Ilyiana** (VSALM\\Julia). All user passwords are
     **P2ssw0rd**.
@@ -32,11 +32,11 @@
 2.  Launch **Internet Explorer** from the taskbar and click **TFS FF
     Portal** from the favorites bar at the top.
 
-1.  <img src="./media/image2.png" width="624" height="57" />
+  <img src="./media/image2.png" width="624" height="57" />
 
 1.  Launching the web portal
 
-1.  **Note:** There is also a **Web Portal** link in the Team Explorer
+  >**Note:** There is also a **Web Portal** link in the Team Explorer
     window within Visual Studio.
 
     <img src="./media/image3.png" width="345" height="117" />
@@ -44,11 +44,11 @@
 1.  Select the team drop-down box in the top-right corner of the portal
     and select the **Browse All** option.
 
-1.  <img src="./media/image4.png" width="575" height="323" />
+  <img src="./media/image4.png" width="575" height="323" />
 
 1.  Browsing teams
 
-1.  **Note:** There is also an option to create a **New team project**
+  >**Note:** There is also an option to create a **New team project**
     directly from the web site. In addition, users with the appropriate
     permissions can delete projects as well.
 
@@ -58,17 +58,17 @@
     default team for the project. We will take a closer look at teams in
     a later exercise.
 
-1.  **Note:** This lab refers to this default team as both the
+  >**Note:** This lab refers to this default team as both the
     leadership team and the management team. They both refer to the
     same team.
 
-1.  <img src="./media/image5.png" width="526" height="403" />
+  <img src="./media/image5.png" width="526" height="403" />
 
 1.  Browsing teams
 
 1.  Select the **Fabrikam Fiber Web Team** and then click **Navigate**.
 
-1.  <img src="./media/image6.png" width="483" height="372" />
+  <img src="./media/image6.png" width="483" height="372" />
 
 1.  Navigating to a different team
 
@@ -80,11 +80,11 @@
     there are links to quickly create new work items and bugs, load the
     backlog, task board, initiate requests for feedback and so on.
 
-1.  <img src="./media/image7.png" width="617" height="282" />
+  <img src="./media/image7.png" width="617" height="282" />
 
 1.  Fabrikam Fiber team home view
 
-1.  **Note:** Team favorites can be added or removed from within the
+  >**Note:** Team favorites can be added or removed from within the
     web portal. For example, navigate to the Build tab to assign build
     definitions as a team favorite. In addition, team favorite work item
     queries can be modified from within Visual Studio.
@@ -98,14 +98,13 @@
     originally introduced in Team Foundation Server 2012 to make it
     easier to manage, assign, and track work.
 
-#### <span id="_Toc429723509" class="anchor"><span id="_Toc451341230" class="anchor"></span></span>Task 2: Working with the Backlog
+####Task 2: Working with the Backlog
 
 1.  Navigate to the backlog by clicking **Backlog** under the
     **Work** section.
 
-<!-- -->
 
-1.  <img src="./media/image8.png" width="334" height="116" />
+  <img src="./media/image8.png" width="334" height="116" />
 
 1.  Navigating to the backlog
 
@@ -114,13 +113,11 @@
     work gets done, as well as associate items on the backlog with
     check-ins, acceptance tests, or other criteria.
 
-1.  <img src="./media/image9.png" width="624" height="222" />
-
-1.  Figure
+  <img src="./media/image9.png" width="624" height="222" />
 
 1.  Product backlog view
 
-1.  **Note:** The Current iteration shown in the tree on the left side
+  >**Note:** The Current iteration shown in the tree on the left side
     of this screen is Iteration 3. Team Foundation Server uses the
     current date and time to determine the current iteration. The
     virtual machine you are using has been set to use a date of July 9,
@@ -142,27 +139,22 @@
 
 1.  Adding a new user story to the product backlog
 
-1.  **Note:** New work items are generally inserted above the
+  >**Note:** New work items are generally inserted above the
     selected location. The exception is that if you select the last work
     item, the insertion will be after the selected location.
 
 1.  Click **Add** to add the new user story to the backlog.
 
-
-
-1.  <img src="./media/image11.png" width="624" height="141" />
+  <img src="./media/image11.png" width="624" height="141" />
 
 1.  Adding a new user story to the product backlog
-
 
 1.  Work items on the product backlog are ordered based on priority with
     high priority items at the top. Our new work item has a high
     priority so move it to the top of the list by dragging and dropping
     it into place.
 
-<!-- -->
-
-1.  <img src="./media/image12.png" width="624" height="227" />
+  <img src="./media/image12.png" width="624" height="227" />
 
 1.  Increasing the priority of the new user story
 
@@ -170,7 +162,7 @@
     product owner and record an initial estimate of expected effort.
     **Double-click** the new user story.
 
-1.  <img src="./media/image13.png" width="624" height="97" />
+  <img src="./media/image13.png" width="624" height="97" />
 
 1.  Editing the new user story
 
@@ -182,13 +174,13 @@
 
 1.  Assigning the new user story and estimating effort
 
-1.  **Note:** Each team may choose to define the **Effort** value as
+  >**Note:** Each team may choose to define the **Effort** value as
     they see fit, using a unit of story points, hours, days, or number
     of sodas required. The point here is that this measure is a relative
     value with respect to other work items. Work will be broken down
     into hours later.
 
-    **Note:** A popular planning approach that helps to eliminate group
+    >**Note:** A popular planning approach that helps to eliminate group
     think and considers input from all team members is known as
     planning poker. You can read more about it at
     <http://en.wikipedia.org/wiki/Planning_poker>.
@@ -196,11 +188,11 @@
 1.  Assign the new user story to the current iteration, ***Iteration
     3***, by dragging and dropping it as shown below.
 
-1.  <img src="./media/image15.png" width="624" height="216" />
+  <img src="./media/image15.png" width="624" height="216" />
 
 1.  Assigning the new user story to the current iteration
 
-1.  **Note:** If you are a Scrum purist, you are probably cringing at
+   >**Note:** If you are a Scrum purist, you are probably cringing at
     the fact that we just added new work to a mid-flight iteration.
     While this is something you might never do in the real world, this
     is a shortcut taken for purposes of this lab in order to simplify
@@ -212,7 +204,7 @@
     will remain on the product backlog until the work has
     been completed.
 
-1.  <img src="./media/image16.png" width="624" height="94" />
+  <img src="./media/image16.png" width="624" height="94" />
 
 1.  Assigning the new user story to the current iteration
 
@@ -269,10 +261,7 @@
     iterations by their assigned dates. Click **Iteration 3** so that we
     can break down work and assign it to the appropriate team members.
 
-
-
   <img src="./media/image22.png" width="180" height="238" />
-
 
 1.  Navigating to the current backlog
 
@@ -305,7 +294,7 @@
 
 1.  Press the **Escape** key to close the burn down graph.
 
-#### <span id="_Toc429723510" class="anchor"><span id="_Toc451341231" class="anchor"></span></span>Task 3: Team Capacity Planning
+### Task 3: Team Capacity Planning
 
 1.  Locate the overall **Work** bar that shows how close to capacity we
     are for the current iteration based on the total of the Remaining
@@ -313,7 +302,7 @@
     for the team. It looks like we are okay now, but we still haven’t
     broken the new user story into tasks for the team yet.
 
-1.  <img src="./media/image26.png" width="194" height="80" />
+  <img src="./media/image26.png" width="194" height="80" />
 
 1.  Overall remaining work with respect to team capacity
 
@@ -335,13 +324,13 @@
     meet the demands for this iteration. For now, leave the capacity
     settings unmodified.
 
-1.  <img src="./media/image28.png" width="551" height="296" />
+  <img src="./media/image28.png" width="551" height="296" />
 
 1.  Team capacity settings
 
 1.  Return to the **Backlog** view for the current iteration.
 
-1.  <img src="./media/image29.png" width="309" height="71" />
+  <img src="./media/image29.png" width="309" height="71" />
 
 1.  Location of Contents tab
 
@@ -352,9 +341,7 @@
     story and will be used to help describe the implementation details
     required to complete this user story.
 
-
-
-1.  <img src="./media/image30.png" width="535" height="230" />
+  <img src="./media/image30.png" width="535" height="230" />
 
 
 1.  Location of the button used to create new tasks
@@ -363,13 +350,11 @@
     for the Title, assign it to **Brian Keller**, and set the Remaining
     Work to **8** hours. Click **Save and Close**.
 
-
   <img src="./media/image31.png" width="586" height="426" />
 
 1.  Creating a new task
 
-
-1.  Note that the new task was added as a child of the user story and
+  >>Note that the new task was added as a child of the user story and
     that the overall team work bar has turned red indicating that we
     have too much work assigned based on capacity.
 
