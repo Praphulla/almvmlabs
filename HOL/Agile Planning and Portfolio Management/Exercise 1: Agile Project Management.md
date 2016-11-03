@@ -34,7 +34,7 @@
 
   <img src="./media/image2.png" width="624" height="57" />
 
-1.  Launching the web portal
+     <b>Figure 1:</b> Launching the web portal
 
   >**Note:** There is also a **Web Portal** link in the Team Explorer
     window within Visual Studio.
@@ -46,7 +46,7 @@
 
   <img src="./media/image4.png" width="575" height="323" />
 
-1.  Browsing teams
+    <b>Figure 2:</b> Browsing teams
 
   >**Note:** There is also an option to create a **New team project**
     directly from the web site. In addition, users with the appropriate
@@ -64,13 +64,13 @@
 
   <img src="./media/image5.png" width="526" height="403" />
 
-1.  Browsing teams
+    <b>Figure 3:</b>  Browsing teams
 
 1.  Select the **Fabrikam Fiber Web Team** and then click **Navigate**.
 
   <img src="./media/image6.png" width="483" height="372" />
 
-1.  Navigating to a different team
+  <b>Figure 4:</b>  Navigating to a different team
 
 1.  The **Home** view for the Fabrikam Fiber Web team provides a
     high-level overview of the current iteration (Sprint 3) including
