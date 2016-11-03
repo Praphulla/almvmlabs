@@ -59,15 +59,15 @@
 
 1.  Click **Fabrikam Fiber Database Team**.
 
-1.  <img src="./media/image51.png" width="335" height="271" />
+  <img src="./media/image51.png" width="335" height="271" />
 
-1.  Fabrikam Fiber Database Team link
+   <b>Figure 46:</b>  Fabrikam Fiber Database Team link
 
 1.  Select the **Areas** tab.
 
-1.  <img src="./media/image52.png" width="568" height="72" />
+  <img src="./media/image52.png" width="568" height="72" />
 
-1.  Areas tab
+   <b>Figure 47:</b>  Areas tab
 
 
 1.  The Database team is currently configured to see work items from
@@ -77,11 +77,9 @@
     structure, each team can work independently on its own backlog,
     defined by its area path, unrelated to the other team’s work.
 
+  <img src="./media/image53.png" width="490" height="350" />
 
-1.  <img src="./media/image53.png" width="490" height="350" />
-
-1.  Area configuration for Database team
-
+   <b>Figure 48:</b>  Area configuration for Database team
 
 1.  Close the administration tab in Internet Explorer to return to the
     web portal browser tab.
@@ -93,11 +91,9 @@
 3.  Select the **Fabrikam Fiber Leadership Team** and click
     **Navigate**.
 
+   <img src="./media/image55.png" width="569" height="434" />
 
-1.  <img src="./media/image55.png" width="569" height="434" />
-
-
-1.  Navigating to management team
+   <b>Figure 49:</b>  Navigating to management team
 
 ###Task 2: Portfolio Management
 
