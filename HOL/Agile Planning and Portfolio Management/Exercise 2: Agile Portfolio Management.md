@@ -231,38 +231,38 @@
 1.  Now let’s load the web portal for the database team. Navigate to the
     **Fabrikam Fiber Database Team** using the top navigation as before.
 
-1.  <img src="./media/image73.png" width="530" height="408" />
+   <img src="./media/image73.png" width="530" height="408" />
 
-1.  Navigate to database team
+    <b>Figure 66:</b> Navigate to database team
 
 1.  You should now be looking at the backlog for the database team.
 
-1.  <img src="./media/image74.png" width="624" height="188" />
+  <img src="./media/image74.png" width="624" height="188" />
 
-1.  Backlog Items link
+   <b>Figure 67:</b>  Backlog Items link
 
 1.  Although this team may normally only want to view their backlog
     items, they may also want to see how those backlog items fit in to
     the bigger picture. Toggle the **Parents** option that is currently
     set to Hide.
 
-1.  <img src="./media/image75.png" width="624" height="59" />
+  <img src="./media/image75.png" width="624" height="59" />
 
-1.  Toggle display of parent nodes
+  <b>Figure 68:</b>  Toggle display of parent nodes
 
 1.  Note that the backlog view now shows parent Feature items.
 
-1.  <img src="./media/image76.png" width="624" height="283" />
+  <img src="./media/image76.png" width="624" height="283" />
 
-1.  Backlog showing parent features
+   <b>Figure 69:</b>  Backlog showing parent features
 
 1.  To get a more complete view of their organization’s overall work,
     the database team can also view the Features backlog. Click
     **Features**.
 
-1.  <img src="./media/image77.png" width="192" height="134" />
+   <img src="./media/image77.png" width="192" height="134" />
 
-1.  Features backlog
+    <b>Figure 70:</b> Features backlog
 
 1.  Click the **Expand** button twice in order to expand the features
     backlog two levels. Note that it is easy to distinguish between work
@@ -271,6 +271,6 @@
     the bar is hollow (not filled in), this means that the work is
     assigned to a different team.
 
-1.  <img src="./media/image78.png" width="624" height="249" />
+  <img src="./media/image78.png" width="624" height="249" />
 
-1.  Viewing work assigned to team vs. other teams
+   <b>Figure 71:</b> Viewing work assigned to team vs. other teams
