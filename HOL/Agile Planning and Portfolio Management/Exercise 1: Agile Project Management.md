@@ -98,7 +98,7 @@
     originally introduced in Team Foundation Server 2012 to make it
     easier to manage, assign, and track work.
 
-####Task 2: Working with the Backlog
+###Task 2: Working with the Backlog
 
 1.  Navigate to the backlog by clicking **Backlog** under the
     **Work** section.
@@ -354,55 +354,40 @@
 
 1.  Creating a new task
 
-  >>Note that the new task was added as a child of the user story and
+  >> *Note* that the new task was added as a child of the user story and
     that the overall team work bar has turned red indicating that we
     have too much work assigned based on capacity.
 
-
-
   <img src="./media/image32.png" width="578" height="176" />
 
-
 1.  Insert Caption
-
 
 1.  It looks like the bug has not been worked on yet, so this may be a
     good candidate to reschedule for a future iteration so that the team
     can get back on track given their additional workload. Drag and drop
     the bug onto **Iteration 4** on the left-hand side of the window.
 
-
-1.  <img src="./media/image33.png" width="576" height="281" />
-
+  <img src="./media/image33.png" width="576" height="281" />
 
 1.  Using drag and drop to re-assign work to different iterations
-
-
 
 1.  Take another look at the overall **Work** bar once again to make
     sure it is now green. This means that we are within the current
     team capacity. Just don’t tell the VP, or he might find another
     high-priority request for us to work on!
 
-
-
-1.  <img src="./media/image34.png" width="194" height="86" />
-
+  <img src="./media/image34.png" width="194" height="86" />
 
 1.  Remaining work for current iteration is within team capacity
  
-
-#### <span id="_Toc429723511" class="anchor"><span id="_Toc451341232" class="anchor"></span></span>Task 4: Working with the Task Board
+### Task 4: Working with the Task Board
 
 1.  Now that we have finished breaking down the work and assigning it to
     team members, let’s take a look at the task board that will be used
     in the next stand-up team meeting to report and record progress.
     Select the **Board** tab from Iteration 3.
 
-
-
-1.  <img src="./media/image35.png" width="336" height="73" />
-
+  <img src="./media/image35.png" width="336" height="73" />
 
 1.  Task board link
 
@@ -411,38 +396,32 @@
     drop the “**Consume OData feed for weather alerts**” task to the
     **In Progress** column.
 
-
-1.  <img src="./media/image36.png" width="624" height="375" />
+  <img src="./media/image36.png" width="624" height="375" />
 
 1.  Drag and drop tasks on the task board to move them between states
 
-1.  **Note:** The task board is touch enabled as well. This will not
+    >>**Note:** The task board is touch enabled as well. This will not
     work within this virtual machine, but you might want to put in your
     request now for that nice wall-mounted touch-screen monitor you have
     been desiring for your team.
 
-    **Note:** Team Foundation Server 2015 has introduced numerous
+    >>**Note:** Team Foundation Server 2015 has introduced numerous
     enhancements to the cards shown for tasks and Kanban views including
     styling, use of avatars, and even responsive layout based on
     browser size.
-
 
 1.  **Single-click** the ‘**8**’ value shown on the “**Consume OData
     feed for weather alerts**” task and change the Remaining Work to
     **5** to simulate Brian working on the task during the day.
 
-
-1.  <img src="./media/image37.png" width="257" height="284" />
-
+  <img src="./media/image37.png" width="257" height="284" />
 
 1.  Updating remaining work for a task
-
 
 1.  The new high-priority task is now in progress with an estimated 5
     hours of work left to go.
 
-
-1.  <img src="./media/image38.png" width="624" height="203" />
+  <img src="./media/image38.png" width="624" height="203" />
 
 1.  Task board
 
@@ -451,7 +430,7 @@
     as completed. Note that the remaining work is automatically reduced
     to **0**.
 
-1.  <img src="./media/image39.png" width="624" height="299" />
+  <img src="./media/image39.png" width="624" height="299" />
 
 1.  Completing a task with the task board
 
@@ -460,7 +439,7 @@
     Click the burn down chart and note that there is about 15 hours of
     effort left in order to complete the work for the iteration.
 
-1.  <img src="./media/image40.png" width="624" height="368" />
+  <img src="./media/image40.png" width="624" height="368" />
 
 1.  Burn down chart
 
@@ -472,36 +451,28 @@
     remaining work giving you a good idea of how much work the team is
     actively working on right now.
 
-1.  <img src="./media/image41.png" width="624" height="307" />
-
+  <img src="./media/image41.png" width="624" height="307" />
 
 1.  Task board showing rollup of hours
-
 
 1.  The task board also groups by team members. Select the **People**
     grouping option in the top-right of the task board view.
 
-
-1.  <img src="./media/image42.png" width="297" height="154" />
-
+  <img src="./media/image42.png" width="297" height="154" />
 
 1.  Group tasks by people
-
 
 1.  This view makes it easy to see what team members are currently
     working on and how much effort remains for each for the remainder of
     the current iteration.
 
-1.  <img src="./media/image43.png" width="624" height="357" />
+  <img src="./media/image43.png" width="624" height="357" />
 
 1.  Grouping tasks by people
-
 
 1.  Click **Backlog Items** to return to the backlog portfolio for
     the team.
 
+  <img src="./media/image44.png" width="624" height="280" />
 
-1.  <img src="./media/image44.png" width="624" height="280" />
-
-
-1.  Backlog view
+  Backlog view
