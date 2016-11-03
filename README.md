@@ -1,8 +1,7 @@
 Release Notes Version 2016.4.25  
 For the latest version of these instructions, the virtual machine, and
 other content, visit <http://aka.ms/almvm>.  
-**Microsoft® Visual Studio® 2015 Application Lifecycle Management
-Virtual Machine**
+##Microsoft® Visual Studio® 2015 Application Lifecycle Management Virtual Machine
 
 General Release Notes
 ---------------------
@@ -69,7 +68,7 @@ the virtual machine; therefore it is recommended that you restore to a
 clean snapshot before you start each hands-on-lab. See the section
 titled “Working with *Snapshots*” below for more information.
 
-**Note**: Starting with Windows 8.1/Windows Server 2012 R2, “snapshots”
+>**Note**: Starting with Windows 8.1/Windows Server 2012 R2, “snapshots”
 are referred to as “checkpoints”.
 
 Labs / Demo Scripts
@@ -108,14 +107,14 @@ you use an external hard drive, faster interfaces such as eSata or
 Firewire 800 will work better. Be careful with slower laptop drives and
 USB 1.1 interfaces.
 
-|                                      | Requirement for Hyper-V Host Machine                              |
+Requirement for Hyper-V Host Machine                        
 |--------------------------------------|-------------------------------------------------------------------|
-| Operating System                     | Microsoft Windows® Server 2008 R2 with the Hyper-V role enabled   
-                                        Microsoft Windows® Server 2012 with the Hyper-V role enabled       
-                                        Microsoft Windows® 8 with Hyper-V enabled                          
-                                        Microsoft Windows® 8.1 with Hyper-V enabled                        
-                                        Microsoft Windows® Sever 2012 R2 with Hyper-V enabled              
-                                        Microsoft Windows® 10 with Hyper-V enabled                         |
+| Operating System                     | Microsoft Windows® Server 2008 R2 with the Hyper-V role enabled   |  
+|                                      | Microsoft Windows® Server 2012 with the Hyper-V role enabled      | 
+|                                      | Microsoft Windows® 8 with Hyper-V enabled                         | 
+|                                      | Microsoft Windows® 8.1 with Hyper-V enabled                       | 
+|                                      | Microsoft Windows® Sever 2012 R2 with Hyper-V enabled             | 
+|                                      | Microsoft Windows® 10 with Hyper-V enabled                        | 
 | Drive Formatting                     | NTFS                                                              |
 | Processor                            | Intel VT or AMD-V capable                                         
                                         *SLAT-capable CPU required if using Windows 8*                     |
