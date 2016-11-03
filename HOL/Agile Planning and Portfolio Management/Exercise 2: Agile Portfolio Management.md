@@ -101,15 +101,14 @@
 
   <img src="./media/image56.png" width="580" height="134" />
 
-1.  Returning to Backlog view
+   <b>Figure 50:</b> Returning to Backlog view
 
 1.  The leadership team can see backlog items across all teams,
     including status and scheduled iteration.
 
+  <img src="./media/image57.png" width="580" height="304" />
 
-1.  <img src="./media/image57.png" width="580" height="304" />
-
-1.  Backlog items for leadership team
+   <b>Figure 51:</b>  Backlog items for leadership team
 
 1.  The backlog view also includes the ability to toggle the display of
     in-progress work items. Toggle the “**In progress items**” link in
@@ -117,52 +116,49 @@
     work items are no longer displayed. Toggle the link once again to
     view in-progress items before moving on.
 
+  <img src="./media/image58.png" width="430" height="78" />
 
-
-1.  <img src="./media/image58.png" width="430" height="78" />
-
-1.  Location of link to show/hide in-progress items
+   <b>Figure 52:</b>  Location of link to show/hide in-progress items
 
 1.  Note that the in-progress work items are no longer displayed. Toggle
     the link once again to view in-progress items as before.
 
-1.  <img src="./media/image59.png" width="577" height="225" />
+  <img src="./media/image59.png" width="577" height="225" />
 
-
-1.  Location of link to show/hide in-progress items
+   <b>Figure 53:</b> Location of link to show/hide in-progress items
 
 1.  Click **Features** to view the feature backlog.
 
-1.  <img src="./media/image60.png" width="183" height="169" />
+   <img src="./media/image60.png" width="183" height="169" />
 
-1.  Viewing features backlog
+    <b>Figure 54:</b>  Viewing features backlog
 
 1.  This view shows the top-level features for the project. It is
     possible to drill down into backlog items and even individual tasks
     if desired. Click the **Expand** button to expand one level.
 
-1.  <img src="./media/image61.png" width="423" height="110" />
+   <img src="./media/image61.png" width="423" height="110" />
 
-1.  Expand button
+    <b>Figure 55:</b>  Expand button
 
-1.  <img src="./media/image62.png" width="586" height="161" />
+   <img src="./media/image62.png" width="586" height="161" />
 
-1.  Expanded view
+    <b>Figure 56:</b>Expanded view
 
 1.  Click the **Expand** button once again to drill down into tasks.
 
-1.  <img src="./media/image63.png" width="544" height="264" />
+   <img src="./media/image63.png" width="544" height="264" />
 
-1.  Expanded view
+   <b>Figure 57:</b>  Expanded view
 
 1.  It is also possible to re-parent work items using drag-and-drop
     operations in the portfolio backlog view. Try this out by dragging
     and dropping one of the Product Backlog Items from one feature
     to another.
 
-1.  <img src="./media/image64.png" width="576" height="185" />
+   <img src="./media/image64.png" width="576" height="185" />
 
-1.  Re-parent work items using drag and drop
+   <b>Figure 58:</b>  Re-parent work items using drag and drop
 
 1.  Note that this moved the Product Backlog Item as well as all of the
     child tasks. Drag the Product Backlog Item back to its
@@ -174,20 +170,20 @@
 
 3.  Click **Column Options**.
 
-1.  <img src="./media/image65.png" width="475" height="111" />
+    <img src="./media/image65.png" width="475" height="111" />
 
-1.  Column Options button
+     <b>Figure 59:</b>  Column Options button
 
 1.  **Double-click** **Area Path** from the available columns and then
     click **OK**.
 
-1.  <img src="./media/image66.png" width="210" height="261" />
+    <img src="./media/image66.png" width="210" height="261" />
 
-1.  Add Area Path column
+      <b>Figure 60:</b> Add Area Path column
 
-1.  <img src="./media/image67.png" width="485" height="300" />
+    <img src="./media/image67.png" width="485" height="300" />
 
-1.  Add Area Path column
+      <b>Figure 61:</b> Add Area Path column
 
 1.  If you look at the area path column for different product backlog
     items, you can see that they are assigned to different teams. The
@@ -195,28 +191,25 @@
     team the desired level of visibility into the breakdown and
     implementation of features.
 
-1.  <img src="./media/image68.png" width="592" height="151" />
+   <img src="./media/image68.png" width="592" height="151" />
 
-1.  Area path column showing assigned teams
-
+    <b>Figure 62:</b>  Area path column showing assigned teams
 
 1.  Now let’s take a look at how to create a new feature and then link
     it to a work item that will be assigned to one of the agile teams.
     Create a new feature titled “**Reporting for technicians and
     services**” and then click the **Add** button.
 
+   <img src="./media/image69.png" width="551" height="162" />
 
-1.  <img src="./media/image69.png" width="551" height="162" />
-
-
-1.  Creating new feature
+   <b>Figure 63:</b>  Creating new feature
 
 1.  Click the green ‘**+**’ button that is on the left-hand side of the
     new Feature.
 
-1.  <img src="./media/image70.png" width="567" height="60" />
+   <img src="./media/image70.png" width="567" height="60" />
 
-1.  Adding new PBI
+   <b>Figure 64:</b> Adding new PBI
 
 
 1.  Create a new Product Backlog Item named “**Modify databases to
@@ -225,16 +218,15 @@
     **Database** team so that it shows up on their backlog. Finally,
     click **Save and Close**.
 
-1.  <img src="./media/image71.png" width="576" height="390" />
+   <img src="./media/image71.png" width="576" height="390" />
 
-1.  Adding new PBI
+    <b>Figure 65:</b>  Adding new PBI
 
 1.  **Note:** In the event that you create items within the backlog, you
     can also easily map them to parent Features by enabling the Mapping
     feature and then dragging and dropping.
 
     <img src="./media/image72.png" width="566" height="264" />
-
 
 1.  Now let’s load the web portal for the database team. Navigate to the
     **Fabrikam Fiber Database Team** using the top navigation as before.
