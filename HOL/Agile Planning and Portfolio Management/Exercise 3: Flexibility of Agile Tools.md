@@ -486,7 +486,7 @@
   <img src="./media/image127.png" width="624" height="204" />
   Filtered backlog view
 
-    >>**Note:** Additional filtering can be done by selecting another tag
+    >**Note:** Additional filtering can be done by selecting another tag
     (if there are any in this filtered subset). To remove the filter,
     simply click the Filter button once again.
   
