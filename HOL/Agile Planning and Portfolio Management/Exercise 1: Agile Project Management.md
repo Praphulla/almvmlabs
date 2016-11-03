@@ -1,5 +1,4 @@
-<span id="_Toc429723507" class="anchor"><span id="_Toc451341228" class="anchor"></span></span>Exercise 1: Agile Project Management
-----------------------------------------------------------------------------------------------------------------------------------
+#Exercise 1: Agile Project Management
 
   In this exercise, you will learn how to use Team Foundation Server
     2015 to manage your product backlog, create work items, break work
@@ -82,7 +81,7 @@
 
   <img src="./media/image7.png" width="617" height="282" />
 
-1.  Fabrikam Fiber team home view
+  <b>Figure 5:</b> Fabrikam Fiber team home view
 
   >**Note:** Team favorites can be added or removed from within the
     web portal. For example, navigate to the Build tab to assign build
@@ -106,7 +105,7 @@
 
   <img src="./media/image8.png" width="334" height="116" />
 
-1.  Navigating to the backlog
+<b>Figure 6:</b> Navigating to the backlog
 
 1.  The product backlog helps define the work that needs to be done.
     Once you have a backlog, you can use it to help manage when that
@@ -115,7 +114,7 @@
 
   <img src="./media/image9.png" width="624" height="222" />
 
-1.  Product backlog view
+<b>Figure 7:</b>  Product backlog view
 
   >**Note:** The Current iteration shown in the tree on the left side
     of this screen is Iteration 3. Team Foundation Server uses the
@@ -137,7 +136,7 @@
 
  <img src="./media/image10.png" width="624" height="184" />
 
-1.  Adding a new user story to the product backlog
+<b>Figure 8:</b>  Adding a new user story to the product backlog
 
   >**Note:** New work items are generally inserted above the
     selected location. The exception is that if you select the last work
@@ -147,7 +146,7 @@
 
   <img src="./media/image11.png" width="624" height="141" />
 
-1.  Adding a new user story to the product backlog
+<b>Figure 9:</b>  Adding a new user story to the product backlog
 
 1.  Work items on the product backlog are ordered based on priority with
     high priority items at the top. Our new work item has a high
@@ -156,7 +155,7 @@
 
   <img src="./media/image12.png" width="624" height="227" />
 
-1.  Increasing the priority of the new user story
+<b>Figure 10:</b>  Increasing the priority of the new user story
 
 1.  Let’s edit the new user story to assign it to the appropriate
     product owner and record an initial estimate of expected effort.
@@ -164,7 +163,7 @@
 
   <img src="./media/image13.png" width="624" height="97" />
 
-1.  Editing the new user story
+<b>Figure 11:</b>  Editing the new user story
 
 1.  Assign the new item to **Brian Keller** (the product owner for the
     Fabrikam Fiber Team), set the state to **Approved**, and set an
@@ -172,7 +171,7 @@
 
     <img src="./media/image14.png" width="624" height="398" />
 
-1.  Assigning the new user story and estimating effort
+<b>Figure 12:</b> Assigning the new user story and estimating effort
 
   >**Note:** Each team may choose to define the **Effort** value as
     they see fit, using a unit of story points, hours, days, or number
@@ -190,7 +189,7 @@
 
   <img src="./media/image15.png" width="624" height="216" />
 
-1.  Assigning the new user story to the current iteration
+<b>Figure 13:</b>  Assigning the new user story to the current iteration
 
    >**Note:** If you are a Scrum purist, you are probably cringing at
     the fact that we just added new work to a mid-flight iteration.
@@ -206,7 +205,7 @@
 
   <img src="./media/image16.png" width="624" height="94" />
 
-1.  Assigning the new user story to the current iteration
+<b>Figure 14:</b>  Assigning the new user story to the current iteration
 
 1.  If you made a mistake when adding a work item, or if the work item
     simply shouldn’t be part of the backlog for any reason, you can drag
@@ -241,7 +240,7 @@
 
   <img src="./media/image20.png" width="453" height="73" />
 
-1.  Location of velocity chart
+  <b>Figure 15:</b>  Location of velocity chart
 
 1.  During *Iteration 1*, the team completed 35 story points worth
     of effort. *Iteration 2* was more productive with 49 story
@@ -253,7 +252,7 @@
 
   <img src="./media/image21.png" width="493" height="309" />
 
-1.  Velocity chart showing progress towards completing user stories
+  <b>Figure 16:</b> Velocity chart showing progress towards completing user stories
 
 1.  Press the **Escape** key to close the velocity chart.
 
@@ -263,7 +262,7 @@
 
   <img src="./media/image22.png" width="180" height="238" />
 
-1.  Navigating to the current backlog
+<b>Figure 17:</b> Navigating to the current backlog
 
 1.  Before we break down the new user story, let’s take a quick tour of
     this iteration backlog view. To start with, it shows all user
@@ -272,7 +271,7 @@
 
   <img src="./media/image23.png" width="589" height="277" />
 
-1.  Current iteration backlog view
+<b>Figure 18:</b>  Current iteration backlog view
 
 1.  At a glance, you can see that the current iteration runs from July 1
     to 12, with four work days remaining. Just to the right of the
@@ -281,7 +280,7 @@
 
   <img src="./media/image24.png" width="303" height="46" />
 
-1.  Burn down graph
+<b>Figure 19:</b>  Burn down graph
 
 1.  Click the burn down graph to view it. The graph shows remaining work
     over the course of the iteration. It also provides insight for the
@@ -290,7 +289,7 @@
 
   <img src="./media/image25.png" width="624" height="310" />
 
-1.  Enlarged burn down graph
+<b>Figure 20:</b>  Enlarged burn down graph
 
 1.  Press the **Escape** key to close the burn down graph.
 
