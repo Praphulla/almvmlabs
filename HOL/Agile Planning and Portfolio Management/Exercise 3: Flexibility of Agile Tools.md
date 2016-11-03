@@ -16,7 +16,7 @@
     utilized and customized independently by different teams, without
     making changes to the underlying process template.
 
-#### <span id="_Toc429723516" class="anchor"><span id="_Toc451341237" class="anchor"></span></span>Task 1: Introduction to Kanban Tools
+###Task 1: Introduction to Kanban Tools
 
 1.  The **Kanban** board was first introduced with Team Foundation
     Server 2012 Update 1. Kanban is a process improvement tool that can
@@ -28,40 +28,12 @@
 
 2.  Navigate to the **Fabrikam Fiber Devices Team**.
 
-<!-- -->
-
-1.  <img src="./media/image79.png" width="520" height="401" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Navigate to devices team
-
-<!-- -->
-
-1.  
-
-<!-- -->
+  <img src="./media/image79.png" width="520" height="401" />
+  Navigate to devices team
 
 1.  Navigate to the backlog Kanban board for this team.
     <img src="./media/image80.png" width="648" height="224" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Kanban board link
-
-<!-- -->
-
-1.  
-
-<!-- -->
+ Kanban board link
 
 1.  The Kanban board shows the top backlog items across all states and
     iterations allowing you to move items between states and allows you
@@ -80,82 +52,34 @@
     state to see what the Kanban board looks like when too much work has
     been committed to at once. Right now, the limit is **5** work items.
 
-<!-- -->
-
-1.  <img src="./media/image81.png" width="217" height="146" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  WIP limit
-
-<!-- -->
-
-1.  
-
-<!-- -->
+   <img src="./media/image81.png" width="217" height="146" />
+    WIP limit
 
 1.  Click the **Configuration** button (it has a gear icon) to open the
     **Configure settings** dialog.
 
-<!-- -->
+  <img src="./media/image82.png" width="570" height="180" />
 
-1.  <img src="./media/image82.png" width="570" height="180" />
 
-<!-- -->
 
 1.  Select the **Columns** tab and click the **Committed** column. Set
     the **WIP Limit** to “3” and click **Save and close**.
 
-<!-- -->
+  <img src="./media/image83.png" width="648" height="376" />
 
-1.  <img src="./media/image83.png" width="648" height="376" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Setting WIP limit
-
-<!-- -->
-
-1.  
-
-<!-- -->
+  Setting WIP limit
 
 1.  On the Kanban board, column headers will provide an indication when
     a Work in Progress limit is exceeded. In this case, the Committed
     column shows us that we have exceeded the limit.
 
-<!-- -->
-
-1.  <img src="./media/image84.png" width="272" height="201" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  WIP limit exceeded
-
-<!-- -->
-
-1.  
-
-<!-- -->
+  <img src="./media/image84.png" width="272" height="201" />
+  WIP limit exceeded
 
 1.  **Note:** Work in Progress limits provide feedback when appropriate
     but they do not prevent a team from taking on additional work. You
     need to actively check the Kanban board in order to discover that
     you are exceeding set limits.
-
-<!-- -->
 
 1.  You can also configure the Kanban boards to show (or hide) bugs
     as desired. Click the gear icon in the top-right corner of the
@@ -166,148 +90,53 @@
 2.  Navigate to the **Settings** tab for the **Fabrikam Fiber Devices
     Team** and scroll down to locate the **Bugs** section.
 
-<!-- -->
-
-1.  <img src="./media/image86.png" width="624" height="378" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Team settings
-
-<!-- -->
-
-1.  
-
-<!-- -->
+  <img src="./media/image86.png" width="624" height="378" />
+  Team settings
 
 1.  Change the **Bugs** option so that “**Bugs appear on the backlogs
     and boards with requirements**”.
 
-<!-- -->
-
-1.  <img src="./media/image87.png" width="508" height="323" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Configuring bugs to show up on backlogs and board views
-
-<!-- -->
-
-1.  
-
-<!-- -->
+  <img src="./media/image87.png" width="508" height="323" />
+  Configuring bugs to show up on backlogs and board views
 
 1.  Close the administration settings browser tab to return to the
     Kanban board view for the team and refresh the page.
 
 2.  Click the **New Item** button and then select **Bug**.
 
-<!-- -->
 
 1.  **Note:** Adding new cards and inline editing are two new features
     in Team Foundation Server 2015.
 
-<!-- -->
-
-1.  <img src="./media/image88.png" width="378" height="199" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Adding a new bug directly on the Kanban board
-
-<!-- -->
-
-1.  
-
-<!-- -->
+  <img src="./media/image88.png" width="378" height="199" />
+  Adding a new bug directly on the Kanban board
 
 1.  Add a new bug entitled **“Rendering artifacts on iPhone”** and then
     press **Enter** to save.
-
-<!-- -->
-
-1.  <img src="./media/image89.png" width="228" height="216" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Adding new bug
-
-<!-- -->
-
-1.  
-
-<!-- -->
+  <img src="./media/image89.png" width="228" height="216" />
+  Adding new bug
 
 1.  You can also reorder the backlog priority from the Kanban board. In
     the **Committed** column, drag the bottom card to the top of
     the column.
 
-<!-- -->
+    <img src="./media/image90.png" width="354" height="491" />
 
-1.  <img src="./media/image90.png" width="354" height="491" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Reorder cards
-
-<!-- -->
-
-1.  
-
-<!-- -->
+     Reorder cards
 
 1.  Filtering on the Kanban board is another new feature of Team
     Foundation Server 2015. Click the **Search** button and then search
     for “**technician**”.
 
-<!-- -->
+  <img src="./media/image91.png" width="624" height="410" />
+  Kanban board search filter
 
-1.  <img src="./media/image91.png" width="624" height="410" />
+ 1. **Clear** the search box.
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Kanban board search filter
-
-<!-- -->
-
-1.  
-
-<!-- -->
-
-1.  **Clear** the search box.
-
-<!-- -->
-
-1.  **Note:** The New column has an additional search filter box that
+  >>**Note:** The New column has an additional search filter box that
     only applies to work items in the New state, which is useful when
     you want to search for something from your backlog without losing
     context of other work items.
-
-<!-- -->
 
 1.  Let’s say that the devices team has decided that they want to add in
     a column that represents work that has been tested on a
@@ -327,19 +156,8 @@
     Reorder the new column to be next to **Done** and set its **Name**
     to “Device Tested”.
 
-<!-- -->
-
-1.  <img src="./media/image93.png" width="648" height="378" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Adding a new column
-
-<!-- -->
+    <img src="./media/image93.png" width="648" height="378" />
+       Adding a new column
 
 1.  You can also modify what your team considers to be the meaning of
     the Definition of Done for each Kanban column. This will help teams
@@ -354,30 +172,13 @@
 2.  You new column is now live on your board, and you can click the
     helper icon to see the **Definition of Done**.
 
-<!-- -->
-
-1.  <img src="./media/image95.png" width="444" height="154" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Kanban board showing customizations for team
-
-<!-- -->
-
-1.  
-
-<!-- -->
+  <img src="./media/image95.png" width="444" height="154" />
+   Kanban board showing customizations for team
 
 1.  Kanban support also adds a new graph to the backlog views called the
     **Cumulative Flow Diagram**. Click the small diagram to open it.
 
-<!-- -->
-
-1.  <img src="./media/image96.png" width="332" height="73" />
+<img src="./media/image96.png" width="332" height="73" />
 
 <!-- -->
 
@@ -484,64 +285,19 @@
     and so on. Navigate to the **Swimlanes** tab and add a new swimlane
     named “**Expedite**”.
 
-<!-- -->
-
-1.  <img src="./media/image103.png" width="568" height="332" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Adding new swimlane
-
-<!-- -->
-
-1.  
-
-<!-- -->
+<img src="./media/image103.png" width="568" height="332" />
+  Adding new swimlane
 
 1.  Rename the default lane to “**Normal**” and then click **Save and
     close**.
 
-<!-- -->
-
-1.  <img src="./media/image104.png" width="566" height="328" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Customizing swimlanes
-
-<!-- -->
-
-1.  
-
-<!-- -->
+<img src="./media/image104.png" width="566" height="328" />
+  Customizing swimlanes
 
 1.  Expedite one of the work items using drag and drop.
 
-<!-- -->
-
-1.  <img src="./media/image105.png" width="508" height="331" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Drag and drop cards to change swimlanes
-
-<!-- -->
-
-1.  
-
-<!-- -->
+  <img src="./media/image105.png" width="508" height="331" />
+ Drag and drop cards to change swimlanes
 
 1.  In addition to the customization of board behavior, the cards
     themselves can be easily styled. Click the **Configure settings**
@@ -603,7 +359,6 @@
 
     <img src="./media/image115.png" width="330" height="267" />
 
-<!-- -->
 
 1.  With the cards now reordered on the board, return to the **Backlog**
     tab and notice that the work items have been appropriately
@@ -652,53 +407,24 @@
     still easily reorder cards within a given column. For additional
     information on using the Kanban board, please see “[Kanban
     basics](https://msdn.microsoft.com/Library/vs/alm/Work/kanban/kanban-basics)”.
+ 
 
-7.  
-
-#### <span id="_Toc429723517" class="anchor"><span id="_Toc451341239" class="anchor"></span></span>Task 3: Work Item Tagging
+###Task 3: Work Item Tagging
 
 1.  **Work item tagging** allows you to easily categorize, query and
     filter lists of work items.
 
 2.  Navigate to the **Fabrikam Fiber Leadership Team**.
 
-<!-- -->
+ <img src="./media/image119.png" width="624" height="478" />
 
-1.  <img src="./media/image119.png" width="624" height="478" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Navigating to management team
-
-<!-- -->
-
-1.  
-
-<!-- -->
+  Navigating to management team
 
 1.  Navigate to the **Backlog Items** view.
 
-<!-- -->
+  <img src="./media/image120.png" width="582" height="170" />
 
-1.  <img src="./media/image120.png" width="582" height="170" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Backlog Items list
-
-<!-- -->
-
-1.  
-
-<!-- -->
+ Backlog Items list
 
 1.  Let’s say that a cross-team initiative is put in place to give
     customer facing work items higher priority. Also imagine that the
@@ -709,163 +435,58 @@
 
 2.  Note that a number of work item tags are already in place.
 
-<!-- -->
-
-1.  <img src="./media/image121.png" width="624" height="197" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Backlog showing work item tags
-
-<!-- -->
-
-1.  
-
-<!-- -->
+  <img src="./media/image121.png" width="624" height="197" />
+  Backlog showing work item tags
 
 1.  **Double-click** the work item titled “**Customer should see
     weather-related outages on portal**”.
 
 2.  Click **Add…** to add a tag.
 
-<!-- -->
+  <img src="./media/image122.png" width="624" height="128" />
 
-1.  <img src="./media/image122.png" width="624" height="128" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Add button
-
-<!-- -->
-
-1.  
-
-<!-- -->
+  Add button
 
 1.  Enter the text “**Customer**” and then click **Save and Close**.
 
-<!-- -->
 
-1.  <img src="./media/image123.png" width="624" height="467" />
+  <img src="./media/image123.png" width="624" height="467" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Adding ‘Customer’ tag
-
-<!-- -->
-
-1.  
-
-<!-- -->
+ Adding ‘Customer’ tag
 
 1.  Repeat the process of tagging any work items that appear to be
     customer facing. You should end up with something like the following
     screenshot, but there is no need to match it exactly.
 
-<!-- -->
-
 1.  **Note:** You can create work item queries that include tags.
 
-<!-- -->
 
-1.  <img src="./media/image124.png" width="624" height="194" />
+  <img src="./media/image124.png" width="624" height="194" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  New work item tags
-
-<!-- -->
-
-1.  
-
-<!-- -->
+  New work item tags
 
 1.  With the desired tagging in place, click the **Filter** button in
     the top-right corner of the backlog list.
 
     <img src="./media/image125.png" width="444" height="111" />
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Filter button
-
-<!-- -->
-
-1.  
-
-<!-- -->
+    Filter button
 
 1.  Click the **Customer** tag to filter by just that tag.
 
-<!-- -->
+  <img src="./media/image126.png" width="296" height="67" />
+  Filtering by work item tag
 
-1.  <img src="./media/image126.png" width="296" height="67" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Filtering by work item tag
-
-<!-- -->
-
-1.  
-
-<!-- -->
 
 1.  With this filtered view the teams will have a much easier time
     finding the work items that they should focus on first. Note that
     this filtering also disables the ability to add new backlog items,
     disables stack ranking and forecasting.
 
-<!-- -->
+  <img src="./media/image127.png" width="624" height="204" />
+  Filtered backlog view
 
-1.  <img src="./media/image127.png" width="624" height="204" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Filtered backlog view
-
-<!-- -->
-
-1.  
-
-<!-- -->
-
-1.  **Note:** Additional filtering can be done by selecting another tag
+    >>**Note:** Additional filtering can be done by selecting another tag
     (if there are any in this filtered subset). To remove the filter,
     simply click the Filter button once again.
-
-<!-- -->
-
-1.  
-
-<!-- -->
-
-1.  
+  
