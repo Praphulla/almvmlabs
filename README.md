@@ -107,7 +107,7 @@ you use an external hard drive, faster interfaces such as eSata or
 Firewire 800 will work better. Be careful with slower laptop drives and
 USB 1.1 interfaces.
 
-Requirement for Hyper-V Host Machine                        
+|Requirement for Hyper-V Host Machine  |                                                                   |
 |--------------------------------------|-------------------------------------------------------------------|
 | Operating System                     | Microsoft Windows® Server 2008 R2 with the Hyper-V role enabled   |  
 |                                      | Microsoft Windows® Server 2012 with the Hyper-V role enabled      | 
@@ -116,8 +116,8 @@ Requirement for Hyper-V Host Machine
 |                                      | Microsoft Windows® Sever 2012 R2 with Hyper-V enabled             | 
 |                                      | Microsoft Windows® 10 with Hyper-V enabled                        | 
 | Drive Formatting                     | NTFS                                                              |
-| Processor                            | Intel VT or AMD-V capable                                         
-                                        *SLAT-capable CPU required if using Windows 8*                     |
+| Processor                            | Intel VT or AMD-V capable                                         |
+|                                      |*SLAT-capable CPU required if using Windows 8*                     |
 | RAM                                  | 8 GB of free physical RAM (9 GB or more recommended)              |
 | Hard disk space required for install | 80 GB (more if using snapshots).                                  |
 
