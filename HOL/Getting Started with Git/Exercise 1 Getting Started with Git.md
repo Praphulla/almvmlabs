@@ -246,7 +246,7 @@ In this exercise, you will learn how to create, clone, and push commits to a Git
 
     Figure Commits view
 
-1.  **Note:** It may take a few moments after pushing a commit before
+  >**Note:** It may take a few moments after pushing a commit before
     the commit size indicators show up. You can refresh the page
     if necessary.
     
@@ -259,7 +259,7 @@ In this exercise, you will learn how to create, clone, and push commits to a Git
 1.  Note that the “**Create new web site**” work item is linked to
     the commit. Click the link to open the work item.
 
-1.  **Note:** It may take a few minutes before the work item gets linked
+  >**Note:** It may take a few minutes before the work item gets linked
     to the commit. In the event that the link has not been made yet, go
    ahead and continue on with the rest of the lab.
 
