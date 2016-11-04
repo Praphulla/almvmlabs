@@ -1,24 +1,6 @@
 
 
-### <span id="_Toc430533662" class="anchor"><span id="_Toc430533856" class="anchor"></span></span>Exercises
 
-1.  This hands-on lab includes the following exercises:
-
-<!-- -->
-
-1.  Getting Started with Git
-
-2.  Git Branching and Merging
-
-3.  
-
-<!-- -->
-
-1.  Estimated time to complete this lab: **60 minutes**.
-
-<!-- -->
-
-1.  
 
 <span id="_Toc428376557" class="anchor"></span>
 
