@@ -107,7 +107,7 @@ you use an external hard drive, faster interfaces such as eSata or
 Firewire 800 will work better. Be careful with slower laptop drives and
 USB 1.1 interfaces.
 
-|Requirement for Hyper-V Host Machine  |                                                                   |
+|                                      |    Requirement for Hyper-V Host Machine                           |
 |--------------------------------------|-------------------------------------------------------------------|
 | Operating System                     | Microsoft Windows® Server 2008 R2 with the Hyper-V role enabled   |  
 |                                      | Microsoft Windows® Server 2012 with the Hyper-V role enabled      | 
@@ -140,13 +140,13 @@ Configure this Virtual Machine with Hyper-V
 This section lists the tasks that you must perform using a server with
 the Hyper-V role enabled.
 
-| 1.  Import and configure the Virtual Machine    |  |                       |                                                  
-                                                                                                                             
-| > Due to the activation and expiration models in Windows Server, it’s highly recommended that you do one of the following: | 
-                                                                                                                             
-| -   Retain a copy of the unaltered VM       |                                                                                
-                                                                                                                             
-| -   Create and retain a snapshot from before first run of the VMs | 1.  Under **Actions**, click **Import Virtual Machine**…    |      | |2.  If you are going to import to a Windows Server 2008 R2 machine, move the VHD file from the WMIv2\\Virtual Hard Disks folder to the WMIv1\\Virtual Hard Disks folder.|  
+ ###1.  Import and configure the Virtual Machine                                                                          
+    > Due to the activation and expiration models in Windows Server, it’s highly recommended that you do one of the following:                                                                                                                            
+    > -   Retain a copy of the unaltered VM  
+    
+    > -   Create and retain a snapshot from before first run of the VMs 
+     
+     Under **Actions**, click **Import Virtual Machine**…    |      | |2.  If you are going to import to a Windows Server 2008 R2 machine, move the VHD file from the WMIv2\\Virtual Hard Disks folder to the WMIv1\\Virtual Hard Disks folder.|  
 | |3.  Use the **Browse** button to select the folder where the virtual machine package was extracted. Keep default settings. Browse to either the **“WMIv1**” or “**WMIv2**” folder depending upon if you are going to import to Server 2008 R2 OR Windows8.1/Server 2012 R2, respectively.  |  
 | |  4.  Click **Select Folder** when you have browsed to this path.|
 | |  5.  Click **Next** through each remaining page of the import wizard, then **Finish**, and wait for the import operation to complete.  |
