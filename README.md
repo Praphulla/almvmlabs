@@ -223,16 +223,17 @@ recommended that you restore to a clean snapshot before you start each
 hands-on-lab. As delivered, this virtual machine does not include any
 snapshots.
 <table>
-<col width="50%">
-  <col  width="50%">
+<col width="30%">
+  <col  width="70%">
 <tr>
     <th align="Center">Tasks</th><th>Detailed steps</th>
 </tr>
 <tr >
     <td>Create a Snapshot<br />
-    <font color="red"><pre>Note that having many snapshots can adversely affect performance.
-         You can delete snapshots you no longer need and Hyper-V will merge 
-         these when the VM is not running.</pre></font>
+   <pre color="red">Note that having many snapshots can 
+adversely affect performance. You can delete snapshots 
+you no longer need and Hyper-V will merge these
+when the VM is not running.</pre>
     </td>
     <td><ol type="a">
         <li>Prepare the VM(s) in the state you wish to capture.</li>
