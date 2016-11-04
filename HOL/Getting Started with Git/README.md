@@ -14,10 +14,10 @@ Last updated: 5/5/2016
 <a href="./README.md#exercises">Exercises</a></pre></td></tr>
 <tr><td><a href="./Exercise 1 Getting Started with Git.md">EXERCISE 1: GETTING STARTED WITH GIT</a></td></tr> 
 <tr><td><pre>
-Task 1: Create Git Repository
-Task 2: Clone Git Repository
-Task 3: Commit Code and Link to Work Item
-Task 4: Synchronize Commits with Server
+<a href="./Exercise 1 Getting Started with Git.md#task-1-create-a-git-repository">Task 1: Create Git Repository </a>
+<a href="./Exercise 1 Getting Started with Git.md#task-2-clone-git-repository">Task 2: Clone Git Repository </a>
+<a href="./Exercise 1 Getting Started with Git.md##task-3-commit-code-and-link-to-work-item">Task 3: Commit Code and Link to Work Item </a>
+<a href="./Exercise 1 Getting Started with Git.md#task-4-synchronize-commits-with-server">Task 4: Synchronize Commits with Server </a>
 </pre></td></tr>
 <tr><td><a href="./Exercise 2 Git Branching and Merging.md">EXERCISE 2: GIT BRANCHING AND MERGING</a></td></tr> 
 <tr><td><pre>
