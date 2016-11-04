@@ -21,11 +21,11 @@ Last updated: 5/5/2016
 </pre></td></tr>
 <tr><td><a href="./Exercise 2 Git Branching and Merging.md">EXERCISE 2: GIT BRANCHING AND MERGING</a></td></tr> 
 <tr><td><pre>
-Task 1: Branching
-Task 2: Merging
-Task 3: Managing Security and Permissions
-Task 4: Branch Policies
-Task 5: Code Review and Merge using Pull Requests
+<a href="./Exercise 2 Git Branching and Merging.md#task-1-branching">Task 1: Branching</a>
+<a href="./Exercise 2 Git Branching and Merging.md#task-2-merging">Task 2: Merging</a>
+<a href="./Exercise 2 Git Branching and Merging.md#task-3-managing-security-and-permissions">Task 3: Managing Security and Permissions</a>
+<a href="./Exercise 2 Git Branching and Merging.md#task-4-branch-policies">Task 4: Branch Policies</a>
+<a href="./Exercise 2 Git Branching and Merging.md#task-5-code-review-and-merge-using-pull-requests">Task 5: Code Review and Merge using Pull Requests</a>
 </pre></td></tr>
 </table>
 
