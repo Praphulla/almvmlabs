@@ -244,7 +244,12 @@ when the VM is not running.</pre>
  </tr>
  <tr>
  <td><b>2.	Apply a Snapshot</b></td>
- <td></td>
+ <td>
+ <ol type="a">
+        <li>Open or return to the Hyper-V Manager</li>
+        <li>Select the VM, right-click on the snapshot you wish to use, and choose Apply.  You will be prompted to save the current state as a snapshot.  Doing so will retain your current state, skipping will discard it.</li>
+                </ol>
+ </td>
  </tr>
 
 </table>
