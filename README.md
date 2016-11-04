@@ -1,10 +1,9 @@
 Release Notes Version 2016.4.25  
 For the latest version of these instructions, the virtual machine, and
 other content, visit <http://aka.ms/almvm>.  
-##Microsoft® Visual Studio® 2015 Application Lifecycle Management Virtual Machine
+#Microsoft® Visual Studio® 2015 Application Lifecycle Management Virtual Machine
 
-General Release Notes
----------------------
+##General Release Notes
 
 The Microsoft® Visual Studio® 2015 Application Lifecycle Management
 Virtual Machine is a single virtual machine image that contains fully
@@ -37,8 +36,7 @@ The virtual machine contains the following pre-configured software:
 9.  Sample users and data required to support hands-on-lab scripts which
     accompany this download.
 
-Activation
-----------
+##Activation
 
 The virtual machine requires online activation if you wish to use it
 more than 10 days. For this to occur, your VM will need to be connected
@@ -48,15 +46,13 @@ and promptly disable Internet access once activation is complete. Please
 refer to the section “*Configure this Virtual Machine with Hyper-V*”
 below for more information.
 
-Expiration
-----------
+##Expiration
 
 If you choose to activate your virtual machine, it will begin a 180-day
 trial of Windows Server 2012 Standard Evaluation. After the 180 days is
 over you will need to stop using this virtual machine.
 
-Rollback
---------
+##Rollback
 
 It is strongly recommended that you implement a rollback strategy for
 restoring this virtual machine to a previous point in time. This is
@@ -71,8 +67,7 @@ titled “Working with *Snapshots*” below for more information.
 >**Note**: Starting with Windows 8.1/Windows Server 2012 R2, “snapshots”
 are referred to as “checkpoints”.
 
-Labs / Demo Scripts
--------------------
+##Labs / Demo Scripts
 
 A set of hands-on-lab documents, which also function as demo scripts,
 are available for download along with this virtual machine. The latest
@@ -83,8 +78,7 @@ management capabilities of Visual Studio 2015, as well as application
 lifecycle management features which have been introduced since Visual
 Studio 2010.
 
-Recommend System Configuration
-------------------------------
+##Recommend System Configuration
 
 You will want to provide as much RAM as possible to this virtual
 machine. A minimum of 6GB is suggested. But you should not allocate all
@@ -121,8 +115,7 @@ USB 1.1 interfaces.
 | RAM                                  | 8 GB of free physical RAM (9 GB or more recommended)              |
 | Hard disk space required for install | 80 GB (more if using snapshots).                                  |
 
-How to Log In
--------------
+##How to Log In
 
 Press Ctrl+Alt+End instead of Ctrl+Alt+Del. All accounts use the same
 password: **P2ssw0rd** (capital letter P, the number two, the letter s,
@@ -134,8 +127,7 @@ prompted to log in as the user that last used the machine. To see the
 list of available users, simply press the left arrow to the left hand
 side of the login.
 
-Configure this Virtual Machine with Hyper-V
--------------------------------------------
+##Configure this Virtual Machine with Hyper-V
 
 This section lists the tasks that you must perform using a server with
 the Hyper-V role enabled.
@@ -221,8 +213,7 @@ the Hyper-V role enabled.
   
   7.  It is highly recommended that you now take a snapshot of the virtual machine so that you can return to this state later if you need to. See “*Working with Snapshots*” below for more information.                                                                                                                                                  |
 
-Working with Snapshots
-----------------------
+##Working with Snapshots
 
 Hyper-V introduces the concept of “snapshots” which can be used to
 revert a virtual machine to a previous configuration state. The
@@ -236,21 +227,10 @@ snapshots.
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.  Create a Snapshot                                                                                                                                                  
                                                                                                                                                                          
- Note that having many snapshots can adversely affect performance. You can delete snapshots you no longer need and Hyper-V will merge these when the VM is not running.  | 1.  Prepare the VM(s) in the state you wish to capture.                                                                                                                                                            
-                                                                                                                                                                                                                                                                                                                                                                                              
-                                                                                                                                                                          2.  Open or return to the Hyper-V Manager                                                                                                                                                                           
-                                                                                                                                                                                                                                                                                                                                                                                              
-                                                                                                                                                                          3.  Select the VM and click Snapshot under Actions.                                                                                                                                                                 
-                                                                                                                                                                                                                                                                                                                                                                                              
-                                                                                                                                                                          4.  Wait for the snapshot captures to complete.                                                                                                                                                                     
-                                                                                                                                                                                                                                                                                                                                                                                              
-                                                                                                                                                                          5.  (optional) Right-click a snapshot to rename it.                                                                                                                                                                 |
-| 1.  Apply a Snapshot                                                                                                                                                   | 1.  Open or return to the Hyper-V Manager                                                                                                                                                                          
-                                                                                                                                                                                                                                                                                                                                                                                              
-                                                                                                                                                                          2.  Select the VM, right-click on the snapshot you wish to use, and choose Apply. You will be prompted to save the current state as a snapshot. Doing so will retain your current state, skipping will discard it.  |
+ Note that having many snapshots can adversely affect performance. You can delete snapshots you no longer need and Hyper-V will merge these when the VM is not running.  | 1.  Prepare the VM(s) in the state you wish to capture.                                                                                                                                                                                                                     2.  Open or return to the Hyper-V Manager                                                                                                                                                                                                                                        3.  Select the VM and click Snapshot under Actions.                                                                                                                                                                                                                               4.  Wait for the snapshot captures to complete.                                                                                                                                                                                                                                5.  (optional) Right-click a snapshot to rename it.                                                                                                                                                                 |
+| 1.  Apply a Snapshot                                                                                                                                                   | 1.  Open or return to the Hyper-V Manager                                                                                                                                                                                                                                    2.  Select the VM, right-click on the snapshot you wish to use, and choose Apply. You will be prompted to save the current state as a snapshot. Doing so will retain your current state, skipping will discard it.  |
 
-Date and Time
--------------
+##Date and Time
 
 Previous versions of this virtual machine were hard-coded to boot up
 with a specific demo date that was in the past. This updated version of
@@ -261,8 +241,7 @@ specifically to a certain demo date (the Agile Planning and Portfolio
 Management lab), and instructions for how to do this are provided at the
 beginning of that lab.
 
-Feedback
---------
+##Feedback
 
 If you have comments or general feedback, please e-mail
 <vskitfdbk@microsoft.com>.
