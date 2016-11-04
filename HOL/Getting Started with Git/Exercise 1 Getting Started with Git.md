@@ -1,7 +1,6 @@
 #Exercise 1: Getting Started with Git
 
-1.  In this exercise, you will learn how to create, clone, and push
-    commits to a Git repository with Team Foundation Server.
+In this exercise, you will learn how to create, clone, and push commits to a Git repository with Team Foundation Server.
 
 ##Task 1: Create a Git Repository
 
@@ -32,157 +31,52 @@
 
 5.  Name the new project “**FabrikamCommunity**” and click **Next**.
 
-<!-- -->
+  <img src="./media/image3.png" width="423" height="344" />
 
-1.  <img src="./media/image3.png" width="423" height="344" />
+    Figure Creating new team project
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Creating new team project
-
-<!-- -->
-
-1.  
-
-<!-- -->
-
-1.  Select the **Scrum** process template and click **Next**
+6.  Select the **Scrum** process template and click **Next**
     to continue.
 
-<!-- -->
+  <img src="./media/image4.png" width="418" height="343" />
+   
+   Figure Creating new team project
 
-1.  <img src="./media/image4.png" width="418" height="343" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Creating new team project
-
-<!-- -->
-
-1.  
-
-<!-- -->
-
-1.  Select the option labeled “**Do not configure a SharePoint site at
+7.  Select the option labeled “**Do not configure a SharePoint site at
     this time**” and then click **Next**.
 
-<!-- -->
+  <img src="./media/image5.png" width="405" height="330" />
+    Figure Creating a new team project
 
-1.  <img src="./media/image5.png" width="405" height="330" />
+8.  Select the **Git** version control system and then click **Finish**.
+  <img src="./media/image6.png" width="378" height="308" />
+    Figure Creating new team project backed by a Git repository
 
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Creating a new team project
-
-<!-- -->
-
-1.  
-
-<!-- -->
-
-1.  Select the **Git** version control system and then click **Finish**.
-
-<!-- -->
-
-1.  <img src="./media/image6.png" width="378" height="308" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Creating new team project backed by a Git repository
-
-<!-- -->
-
-1.  
-
-<!-- -->
-
-1.  After the new Git team project has been created, click **Close** to
+9.  After the new Git team project has been created, click **Close** to
     return to Visual Studio.
-
-2.  
 
 ##Task 2: Clone Git Repository
 
 1.  Click the **Connect to Team Projects** button.
 
-<!-- -->
-
-1.  <img src="./media/image7.png" width="345" height="45" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Location of Connect button
-
-<!-- -->
-
-1.  
-
-<!-- -->
+  <img src="./media/image7.png" width="345" height="45" />
+   
+   Figure Location of Connect button
 
 1.  **Right-click** the **FabrikamCommunity** project node and then
     select the option to **Clone**.
-
-<!-- -->
-
-1.  <img src="./media/image8.png" width="344" height="314" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Cloning the repository
-
-<!-- -->
-
-1.  
-
-<!-- -->
+    
+     <img src="./media/image8.png" width="344" height="314" />
+      
+      Figure Cloning the repository
 
 1.  Accept the default endpoint and repository location and then click
     **Clone**.
 
-<!-- -->
+    <img src="./media/image9.png" width="271" height="125" />
 
-1.  <img src="./media/image9.png" width="271" height="125" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Clone repository to local folder
-
-<!-- -->
-
-1.  
-
-<!-- -->
-
-1.  
-
+    Figure Clone repository to local folder
+ 
 ##Task 3: Commit Code and Link to Work Item
 
 1.  In **Team Explorer – Home**, click **Settings**.
