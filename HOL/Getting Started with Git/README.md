@@ -69,8 +69,8 @@ Task 5: Code Review and Merge using Pull Requests
 
 This hands-on lab includes the following exercises:
 
- 1.  Getting Started with Git
+ 1.  [Getting Started with Git](./Exercise 1 Getting Started with Git.md)
 
- 2.  Git Branching and Merging
+ 2.  [Git Branching and Merging](./Exercise 2 Git Branching and Merging.md)
 
  Estimated time to complete this lab: **60 minutes**.
