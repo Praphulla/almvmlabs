@@ -8,10 +8,10 @@ Last updated: 5/5/2016
 ### TABLE OF CONTENT
 <table>
 <tr><th>Getting started with git using team foundation server 2015</th></tr>
-<tr><td>OVERVIEW</td></tr>
-<tr><td><pre> Prerequisites
- About the Fabrikam Fiber Scenario
- Exercises</td></tr>
+<tr><td><a href="./README.md#overview">OVERVIEW</a></td></tr>
+<tr><td><pre><a href="./README.md#prerequisites">Prerequisites</a>
+<a href="./README.md#about-the-fabrikam-fiber-scenario">About the Fabrikam Fiber Scenario</a>
+<a href="./README.md#Exercises">Exercises</a></pre></td></tr>
 <tr><td>EXERCISE 1: GETTING STARTED WITH GIT</td></tr>
 <tr><td><pre>
 Task 1: Create Git Repository
@@ -40,14 +40,14 @@ Task 5: Code Review and Merge using Pull Requests
     repository in Team Foundation Server. In addition, you will learn
     about Git branching and merging support.
 
-### <span id="_Toc430533660" class="anchor"><span id="_Toc430533854" class="anchor"></span></span>Prerequisites
+##Prerequisites
 
 1.  In order to complete this lab you will need the Visual Studio 2015
     virtual machine provided by Microsoft. For more information on
     acquiring and using this virtual machine, please see [this blog
     post](http://aka.ms/ALMVM).
 
-### <span id="_Toc430533661" class="anchor"><span id="_Toc430533855" class="anchor"></span></span>About the Fabrikam Fiber Scenario
+##About the Fabrikam Fiber Scenario
 
 1.  This set of hands-on-labs uses a fictional company, Fabrikam Fiber,
     as a backdrop to the scenarios you are learning about. Fabrikam
@@ -64,3 +64,13 @@ Task 5: Code Review and Merge using Pull Requests
     to use Visual Studio application lifecycle management tools to
     manage their source code, run their builds, test their web sites,
     and plan and track the project.
+    
+##Exercises
+
+This hands-on lab includes the following exercises:
+
+ 1.  Getting Started with Git
+
+ 2.  Git Branching and Merging
+
+ Estimated time to complete this lab: **60 minutes**.
