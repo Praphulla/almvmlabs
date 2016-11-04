@@ -46,10 +46,13 @@ In this exercise, you will learn how to create, clone, and push commits to a Git
     this time**” and then click **Next**.
 
   <img src="./media/image5.png" width="405" height="330" />
+    
     Figure Creating a new team project
 
 8.  Select the **Git** version control system and then click **Finish**.
+  
   <img src="./media/image6.png" width="378" height="308" />
+    
     Figure Creating new team project backed by a Git repository
 
 9.  After the new Git team project has been created, click **Close** to
@@ -81,80 +84,28 @@ In this exercise, you will learn how to create, clone, and push commits to a Git
 
 1.  In **Team Explorer – Home**, click **Settings**.
 
-<!-- -->
+   <img src="./media/image10.png" width="225" height="253" />
 
-1.  <img src="./media/image10.png" width="225" height="253" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Project settings
-
-<!-- -->
-
-1.  
-
-<!-- -->
+    Figure Project settings
 
 1.  Click **Global Settings** under **Git**.
 
-<!-- -->
-
-1.  <img src="./media/image11.png" width="251" height="299" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Git settings
-
-<!-- -->
-
-1.  
-
-<!-- -->
+   <img src="./media/image11.png" width="251" height="299" />
+ 
+    Figure  Git settings
 
 1.  Enter an email address for Julia (**julia.ilyiana@vsalm**) and then
     click **Update**.
 
-<!-- -->
+   <img src="./media/image12.png" width="246" height="328" />
 
-1.  <img src="./media/image12.png" width="246" height="328" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Setting email address
-
-<!-- -->
-
-1.  
-
-<!-- -->
+    Figure Setting email address
 
 1.  Click the **Home** button in **Team Explorer**.
 
-<!-- -->
+   <img src="./media/image13.png" width="344" height="44" />
 
-1.  <img src="./media/image13.png" width="344" height="44" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Navigating home
-
-<!-- -->
+    Figure Navigating home
 
 1.  Create a new work item for the product backlog by selecting **Team |
     New Work Item | Product Backlog Item** from the main menu.
@@ -162,101 +113,37 @@ In this exercise, you will learn how to create, clone, and push commits to a Git
 2.  Enter a title of “**Create new web site**” and then click **Save
     Work Item**. Take note of the **ID** once the work item is saved.
 
-<!-- -->
+   <img src="./media/image14.png" width="242" height="143" />
 
-1.  <img src="./media/image14.png" width="242" height="143" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Creating new Product Backlog Item
-
-<!-- -->
-
-1.  
-
-<!-- -->
+    Figure Creating new Product Backlog Item
 
 1.  In **Team Explorer – Home**, click **New…** underneath the
     **Solutions** section.
-
-<!-- -->
-
-1.  <img src="./media/image15.png" width="296" height="337" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Creating a new solution
-
-<!-- -->
-
-1.  
-
-<!-- -->
+ 
+   <img src="./media/image15.png" width="296" height="337" />
+    
+    Figure Creating a new solution
 
 1.  In the **New Project** window, select the **Visual C\# | Web |
     ASP.NET Web Application** template. Ensure the **Application
     Insights** option is unchecked and then click **OK**.
 
-<!-- -->
+  <img src="./media/image16.png" width="547" height="303" />
 
-1.  <img src="./media/image16.png" width="547" height="303" />
-
-<!-- -->
-
-1.  Figure
-
-    Creating new web site
-
-<!-- -->
+   Figure Creating new web site
 
 1.  Select the **MVC** template, **de-select** the option to “**Host in
     the cloud**”, and then click **OK**.
 
-<!-- -->
+  <img src="./media/image17.png" width="450" height="347" />
 
-1.  <img src="./media/image17.png" width="450" height="347" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Creating a new web site
-
-<!-- -->
-
-1.  
-
-<!-- -->
+   Figure Creating a new web site
 
 1.  In **Team Explorer – Home**, click **Changes**.
 
-<!-- -->
+  <img src="./media/image18.png" width="232" height="156" />
 
-1.  <img src="./media/image18.png" width="232" height="156" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Viewing changes
-
-<!-- -->
-
-1.  
-
-<!-- -->
+  Figure Viewing changes
 
 1.  Scroll down the list of included changes to the end and note that
     .gitattributes and .gitignore files were automatically added to
@@ -264,23 +151,9 @@ In this exercise, you will learn how to create, clone, and push commits to a Git
     to control Git behavior whereas the **.gitignore** file specifies
     patterns and extensions to ignore when detecting changes.
 
-<!-- -->
+  <img src="./media/image19.png" width="318" height="146" />
 
-1.  <img src="./media/image19.png" width="318" height="146" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Included changes
-
-<!-- -->
-
-1.  
-
-<!-- -->
+  Figure ncluded changes
 
 1.  Enter a commit message of “**initial MVC site for work item
     \#247**”. If the Product Backlog Item that you saved has a different
@@ -288,78 +161,42 @@ In this exercise, you will learn how to create, clone, and push commits to a Git
     item ID will automatically link the commit to the work item when
     pushed to the server.
 
-<!-- -->
-
-1.  <img src="./media/image20.png" width="351" height="116" />
-
-<!-- -->
-
-1.  Figure
-
-<!-- -->
-
-1.  Entering a commit message
-
-<!-- -->
-
-1.  
-
-<!-- -->
+   <img src="./media/image20.png" width="351" height="116" />
+  
+    Figure Entering a commit message
 
 1.  Commit the changes by clicking **Commit All**. Note that the commit
     is persisted locally and is not shared with the server.
 
-<!-- -->
-
- <img src="./media/image21.png" width="280" height="93" />
-
-
-1.  Committing changes locally
-
+   <img src="./media/image21.png" width="280" height="93" />
+   
+    Figure Committing changes locally
 
 1.  Let’s make a small change to the web site. In **Solution Explorer**,
     open **\_Layout.cshtml** from the **Views\\Shared** folder.
 
+   <img src="./media/image22.png" width="280" height="324" />
 
-  <img src="./media/image22.png" width="280" height="324" />
-
-  Figure
-
-
-1.  Opening \_Layout.cshtml
+    Figure Opening \_Layout.cshtml
 
 1.  Modify the title as shown in the following screenshot (from “**My
     ASP.NET Application**” to “**Community**”).
 
-
-
   <img src="./media/image23.png" width="536" height="124" />
 
-
-
-1.  Figure
-
-
-1.  Modifying markup
+   Figure Modifying markup
 
 1.  In **Team Explorer – Changes**, enter a commit message and then
     click **Commit All**. **Save** changes to files when prompted.
 
-
   <img src="./media/image24.png" width="300" height="156" />
-
-<!-- -->
-
-1.  Figure
-
-
-1.  Entering a commit message
+   
+   Figure Entering a commit message
  
 
 ##Task 4: Synchronize Commits with Server
 
 1.  Navigate to the commits view by clicking **Sync**.
-
 
   <img src="./media/image25.png" width="343" height="119" />
 
@@ -373,113 +210,64 @@ In this exercise, you will learn how to create, clone, and push commits to a Git
 
   <img src="./media/image26.png" width="272" height="264" />
 
-1.  Figure
-
-1.  Outgoing commits
+  Figure Outgoing commits
 
 1.  Click **Sync** to perform both a **pull** and a **push** to ensure
     we have the latest source before pushing our updates.
 
-1.  <img src="./media/image27.png" width="285" height="103" />
+  <img src="./media/image27.png" width="285" height="103" />
 
-
-1.  Synchronizing with the server
-
+   Figure Synchronizing with the server
 
  <img src="./media/image28.png" width="272" height="98" />
-
-
-1.  Synchronizing with the server
-
+   
+   Figure Synchronizing with the server
 
 1.  Finally, let’s take a quick peek at what these commits look like in
     the web portal. In **Team Explorer – Home**, click **Web Portal**.
 
 
- <img src="./media/image29.png" width="261" height="161" />
+  <img src="./media/image29.png" width="261" height="161" />
 
-1.  Figure
-
-
-1.  Launching web portal
-
+  Figure Launching web portal
 
 1.  Select the **Code** tab in the web portal.
 
+  <img src="./media/image30.png" width="471" height="66" />
 
-1.  <img src="./media/image30.png" width="471" height="66" />
-
-1.  Figure
-
-1.  Navigating to Code
+   Figure Navigating to Code
 
 1.  Select the **History** child tab to see the two commits. Note that
     the relative size of the commits (in terms of number of
     modified files) can be determined by viewing the size of the circles
     rendered to the left of the commits.
 
+   <img src="./media/image31.png" width="306" height="225" />
 
-
-  <img src="./media/image31.png" width="306" height="225" />
-
-
-
-  Figure
-
-
-1.  Commits view
-
-
+    Figure Commits view
 
 1.  **Note:** It may take a few moments after pushing a commit before
     the commit size indicators show up. You can refresh the page
     if necessary.
-
-
-
+    
 1.  Click the link associated with the first commit.
-
-
 
   <img src="./media/image32.png" width="464" height="94" />
 
-
-
-1.  Figure
-
-
-1.  Selecting the first commit
-
+   Figure Selecting the first commit
 
 1.  Note that the “**Create new web site**” work item is linked to
     the commit. Click the link to open the work item.
 
-
-
 1.  **Note:** It may take a few minutes before the work item gets linked
     to the commit. In the event that the link has not been made yet, go
-    ahead and continue on with the rest of the lab.
+   ahead and continue on with the rest of the lab.
 
+  <img src="./media/image33.png" width="273" height="249" />
 
+  Figure Viewing linked work item
 
-1.  <img src="./media/image33.png" width="273" height="249" />
+  <img src="./media/image34.png" width="277" height="113" />
 
-
-
-1.  Figure
-
-
-
-1.  Viewing linked work item
-
-
-1.  <img src="./media/image34.png" width="277" height="113" />
-
-
-
-1.  Figure
-
-
-
-1.  Viewing linked work item
+  Figure Viewing linked work item
   
