@@ -142,10 +142,10 @@ the Hyper-V role enabled.
 
 **1.  Import and configure the Virtual Machine**   
 
- >>Due to the activation and expiration models in Windows Server, it’s highly recommended that you do one of the following:                 
-    >>- Retain a copy of the unaltered VM  
-    
-    >>- Create and retain a snapshot from before first run of the VMs 
+ >Due to the activation and expiration models in Windows Server, it’s highly recommended that you do one of the following:                 
+   >- Retain a copy of the unaltered VM  
+   
+   >- Create and retain a snapshot from before first run of the VMs 
      
    1. Under **Actions**, click **Import Virtual Machine**…  
    
