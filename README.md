@@ -140,7 +140,7 @@ Configure this Virtual Machine with Hyper-V
 This section lists the tasks that you must perform using a server with
 the Hyper-V role enabled.
 
- ###1.  Import and configure the Virtual Machine                                                                          
+**1.  Import and configure the Virtual Machine**                                                                         
     > Due to the activation and expiration models in Windows Server, it’s highly recommended that you do one of the following:                                                                                                                            
     > -   Retain a copy of the unaltered VM  
     
