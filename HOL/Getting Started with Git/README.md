@@ -31,7 +31,7 @@ Task 5: Code Review and Merge using Pull Requests
 
 ##Overview
 
-1.  In this lab, you’ll learn about Git support in Team Foundation
+    In this lab, you’ll learn about Git support in Team Foundation
     Server 2015 and Visual Studio 2015. Git is a distributed version
     control system. Git repositories can live locally (such as on a
     developer’s machine) and can now be hosted by Team
@@ -42,14 +42,14 @@ Task 5: Code Review and Merge using Pull Requests
 
 ##Prerequisites
 
-1.  In order to complete this lab you will need the Visual Studio 2015
+    In order to complete this lab you will need the Visual Studio 2015
     virtual machine provided by Microsoft. For more information on
     acquiring and using this virtual machine, please see [this blog
     post](http://aka.ms/ALMVM).
 
 ##About the Fabrikam Fiber Scenario
 
-1.  This set of hands-on-labs uses a fictional company, Fabrikam Fiber,
+    This set of hands-on-labs uses a fictional company, Fabrikam Fiber,
     as a backdrop to the scenarios you are learning about. Fabrikam
     Fiber provides cable television and related services to the
     United States. They are growing rapidly and have embraced Windows
