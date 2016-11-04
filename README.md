@@ -223,14 +223,14 @@ recommended that you restore to a clean snapshot before you start each
 hands-on-lab. As delivered, this virtual machine does not include any
 snapshots.
 
-| Tasks                                         | Detailed steps                                                            |
-|-----------------------------------------------|-------------------------------------------------------------------        |
-| 1.  Create a Snapshot                         |  1.  Prepare the VM(s) in the state you wish to capture.                  |
-|                                               |  2.  Open or return to the Hyper-V Manager                                |
-|  >Note that having many snapshots can adversely affect performance. You can delete snapshots you no longer need and Hyper-V will merge these when the VM is not running.               |  3.  Select the VM and click Snapshot under Actions.                      |  
-|                                               |  4.  Wait for the snapshot captures to complete.                          |
-|                                               |  5.  (optional) Right-click a snapshot to rename it.                      |
-| 1.  Apply a Snapshot                          |  1.  Open or return to the Hyper-V Manager                                |           |                                               |  2.  Select the VM, right-click on the snapshot you wish to use, and choose Apply. You will be prompted to save the current state as a snapshot. Doing so will retain your current state, skipping will discard it.  |
+| **Tasks**                                               | **Detailed steps**                                                        |
+|---------------------------------------------------------|---------------------------------------------------------------------------|
+| 1.  Create a Snapshot                                   |  1.  Prepare the VM(s) in the state you wish to capture.                  |
+|  >>Note that having many snapshots can adversely affect |  2.  Open or return to the Hyper-V Manager                                | |  >>performance. You can delete snapshots you no  longer |  3.  Select the VM and click Snapshot under Actions.                      |
+|  >>need and Hyper-V will merge these when the VM is     |  4.  Wait for the snapshot captures to complete.                          |  |  >>not running.                                         |  5.  (optional) Right-click a snapshot to rename it.                      | |                                                         |                                                                           |
+| 1.  Apply a Snapshot                                    |  1.  Open or return to the Hyper-V Manager                                |  |                                                         |  2.  Select the VM, right-click on the snapshot you wish to use, and      |
+|                                                         |  choose Apply. You will be prompted to save the current state as            |                                                         |  a snapshot. Doing so will retain your current state, skipping will
+|                                                         |  discard it.                                                                
 
 ##Date and Time
 
