@@ -12,14 +12,14 @@ Last updated: 5/5/2016
 <tr><td><pre><a href="./README.md#prerequisites">Prerequisites</a>
 <a href="./README.md#about-the-fabrikam-fiber-scenario">About the Fabrikam Fiber Scenario</a>
 <a href="./README.md#exercises">Exercises</a></pre></td></tr>
-<tr><td>EXERCISE 1: GETTING STARTED WITH GIT</td></tr>
+<tr><td><a href="./Exercise 1 Getting Started with Git.md">EXERCISE 1: GETTING STARTED WITH GIT</a></td></tr> 
 <tr><td><pre>
 Task 1: Create Git Repository
 Task 2: Clone Git Repository
 Task 3: Commit Code and Link to Work Item
 Task 4: Synchronize Commits with Server
 </pre></td></tr>
-<tr><td>EXERCISE 2: GIT BRANCHING AND MERGING</td></tr>
+<tr><td><a href="./Exercise 2 Git Branching and Merging.md">EXERCISE 2: GIT BRANCHING AND MERGING</a></td></tr> 
 <tr><td><pre>
 Task 1: Branching
 Task 2: Merging
