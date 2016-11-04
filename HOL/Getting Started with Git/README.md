@@ -58,7 +58,7 @@ Task 5: Code Review and Merge using Pull Requests
     also use an on-premises ASP.NET MVC application for their customer
     service representatives to administer customer orders.
 
-    In this set of hands-on labs, you will take part in a number of
+   In this set of hands-on labs, you will take part in a number of
     scenarios that involve the development and testing team at
     Fabrikam Fiber. The team, which consists of 8-10 people, has decided
     to use Visual Studio application lifecycle management tools to
