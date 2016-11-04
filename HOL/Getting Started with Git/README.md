@@ -11,7 +11,7 @@ Last updated: 5/5/2016
 <tr><td><a href="./README.md#overview">OVERVIEW</a></td></tr>
 <tr><td><pre><a href="./README.md#prerequisites">Prerequisites</a>
 <a href="./README.md#about-the-fabrikam-fiber-scenario">About the Fabrikam Fiber Scenario</a>
-<a href="./README.md#Exercises">Exercises</a></pre></td></tr>
+<a href="./README.md#exercises">Exercises</a></pre></td></tr>
 <tr><td>EXERCISE 1: GETTING STARTED WITH GIT</td></tr>
 <tr><td><pre>
 Task 1: Create Git Repository
